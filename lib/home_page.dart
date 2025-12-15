@@ -2,7 +2,6 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:in_app_review/in_app_review.dart';
 
 class ChatMessage {
   final String role; // 'user' or 'assistant'
@@ -25,7 +24,6 @@ class _HomePageState extends State<HomePage> {
   final List<ChatMessage> _messages = [];
   final TextEditingController _controller = TextEditingController();
   bool _isSending = false;
-  bool _ratingRequested = false;
 
   String get _backgroundAsset =>
       _messages.isEmpty ? 'assets/home_content_bg.webp' : 'assets/home_Have_content_bg.webp';
@@ -33,7 +31,6 @@ class _HomePageState extends State<HomePage> {
   @override
   void initState() {
     super.initState();
-    _requestRating();
   }
 
   @override
@@ -117,20 +114,6 @@ class _HomePageState extends State<HomePage> {
       return content;
     } finally {
       client.close(force: true);
-    }
-  }
-
-  Future<void> _requestRating() async {
-    if (_ratingRequested) return;
-    _ratingRequested = true;
-    if (!Platform.isIOS) return;
-    try {
-      final inAppReview = InAppReview.instance;
-      if (await inAppReview.isAvailable()) {
-        await inAppReview.requestReview();
-      }
-    } catch (_) {
-      // ignore failures silently
     }
   }
 

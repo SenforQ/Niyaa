@@ -1,8 +1,10 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'main.dart';
 import 'privacy_policy_page.dart';
 import 'user_agreement_page.dart';
+import 'services/att_service.dart';
 
 class WelcomePage extends StatefulWidget {
   const WelcomePage({super.key});
@@ -22,9 +24,33 @@ class _WelcomePageState extends State<WelcomePage> {
     Navigator.of(context).push(MaterialPageRoute(builder: (_) => const PrivacyPolicyPage()));
   }
 
-  void _enterApp() {
+  void _enterApp() async {
     if (!_agreed) return;
-    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (_) => const MainPage()));
+    HapticFeedback.lightImpact();
+    
+    // 先直接进入主应用，不等待 ATT 权限
+    if (mounted) {
+      Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (_) => const MainPage()));
+    }
+    
+    // 在后台请求 ATT 权限，不影响应用使用
+    _requestTrackingPermissionInBackground();
+  }
+
+  /// 在后台请求 ATT 权限，不影响应用使用
+  Future<void> _requestTrackingPermissionInBackground() async {
+    try {
+      debugPrint('Requesting ATT permission in background...');
+      final isAuthorized = await ATTService.requestTrackingPermission();
+      debugPrint('ATT permission result: $isAuthorized');
+      
+      // 不显示任何提示，静默处理
+      // 用户可以在设置中随时更改权限
+    } catch (e, stackTrace) {
+      debugPrint('Background ATT request failed: $e');
+      debugPrint('Stack trace: $stackTrace');
+      // 静默失败，不影响应用使用
+    }
   }
 
   @override
