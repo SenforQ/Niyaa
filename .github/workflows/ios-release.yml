@@ -95,7 +95,7 @@ jobs:
 
       - name: Upload to App Store using altool
         env:
-          IPA_PATH: "build/ios/ipa/niya.ipa"
+          IPA_PATH: "build/ios/ipa/niya-.ipa"
           APPLE_ID: "lcl0792lt@163.com"
           APP_SPECIFIC_PASSWORD: "ugpb-ardk-zrlb-cooz"
         run: |
