@@ -1,16 +1,14 @@
 import 'package:flutter/material.dart';
 import 'food_detail_page.dart';
-import 'cooking_page.dart';
-import 'add_food_page.dart';
 
-class FoodPage extends StatelessWidget {
-  const FoodPage({super.key});
+class RankPage extends StatelessWidget {
+  const RankPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     final screenSize = MediaQuery.of(context).size;
     final mediaPadding = MediaQuery.of(context).padding;
-    final scrollHeight = (screenSize.height - 340 - kBottomNavigationBarHeight - mediaPadding.bottom).clamp(0.0, screenSize.height);
+    final scrollHeight = (screenSize.height - 250).clamp(0.0, screenSize.height);
     final guides = recipeGuides;
     return Scaffold(
       backgroundColor: Colors.transparent,
@@ -42,99 +40,39 @@ class FoodPage extends StatelessWidget {
             ),
           ),
           Positioned(
-            left: 15,
-            right: 15,
-            top: 280,
-            child: Row(
-              children: [
-                Expanded(
-                  child: Container(
-                    decoration: BoxDecoration(
-                      color: Colors.white,
-                      borderRadius: BorderRadius.circular(12),
-                      boxShadow: const [
-                        BoxShadow(
-                          color: Colors.black,
-                          offset: Offset(4, 4),
-                          blurRadius: 0,
-                        ),
-                      ],
+            top: MediaQuery.of(context).padding.top + 16,
+            left: 16,
+            child: GestureDetector(
+              behavior: HitTestBehavior.opaque,
+              onTap: () {
+                Navigator.of(context).pop();
+              },
+              child: Container(
+                width: 44,
+                height: 44,
+                decoration: BoxDecoration(
+                  color: Colors.white,
+                  borderRadius: BorderRadius.circular(22),
+                  boxShadow: const [
+                    BoxShadow(
+                      color: Colors.black,
+                      offset: Offset(4, 4),
+                      blurRadius: 0,
                     ),
-                    child: ElevatedButton(
-                      onPressed: () {
-                        Navigator.of(context).push(
-                          MaterialPageRoute(
-                            builder: (_) => const AddFoodPage(),
-                          ),
-                        );
-                      },
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.white,
-                        foregroundColor: Colors.black87,
-                        elevation: 0,
-                        padding: const EdgeInsets.symmetric(vertical: 14),
-                        shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(12),
-                        ),
-                      ),
-                      child: const Text(
-                        'Add Record food',
-                        style: TextStyle(
-                          fontSize: 16,
-                          fontWeight: FontWeight.bold,
-                        ),
-                      ),
-                    ),
-                  ),
+                  ],
                 ),
-                const SizedBox(width: 12),
-                Expanded(
-                  child: Container(
-                    decoration: BoxDecoration(
-                      color: Colors.white,
-                      borderRadius: BorderRadius.circular(12),
-                      boxShadow: const [
-                        BoxShadow(
-                          color: Colors.black,
-                          offset: Offset(4, 4),
-                          blurRadius: 0,
-                        ),
-                      ],
-                    ),
-                    child: ElevatedButton(
-                      onPressed: () {
-                        Navigator.of(context).push(
-                          MaterialPageRoute(
-                            builder: (_) => const CookingPage(),
-                          ),
-                        );
-                      },
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.white,
-                        foregroundColor: Colors.black87,
-                        elevation: 0,
-                        padding: const EdgeInsets.symmetric(vertical: 14),
-                        shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(12),
-                        ),
-                      ),
-                      child: const Text(
-                        'Start Cooking',
-                        style: TextStyle(
-                          fontSize: 16,
-                          fontWeight: FontWeight.bold,
-                        ),
-                      ),
-                    ),
-                  ),
+                child: const Icon(
+                  Icons.arrow_back,
+                  color: Colors.black87,
+                  size: 24,
                 ),
-              ],
+              ),
             ),
           ),
           Positioned(
             left: 0,
             right: 0,
-            top: 340,
+            top: 250,
             height: scrollHeight,
             child: Container(
               decoration: const BoxDecoration(
@@ -207,4 +145,3 @@ class FoodPage extends StatelessWidget {
     );
   }
 }
-

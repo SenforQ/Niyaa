@@ -30,7 +30,7 @@ class _WelcomePageState extends State<WelcomePage> {
     
     // 先直接进入主应用，不等待 ATT 权限
     if (mounted) {
-      Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (_) => const MainPage()));
+    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (_) => const MainPage()));
     }
     
     // 在后台请求 ATT 权限，不影响应用使用

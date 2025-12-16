@@ -6,6 +6,9 @@ import 'block_list.dart';
 import 'figure_niyaa_detail_info_page.dart';
 import 'niyaa_info.dart';
 import 'video_full_page.dart';
+import 'add_community_page.dart';
+import 'rank_page.dart';
+import 'widgets/comment_bottom_sheet.dart';
 
 class CommunityPage extends StatefulWidget {
   const CommunityPage({super.key});
@@ -75,9 +78,11 @@ class _CommunityPageState extends State<CommunityPage> {
             ),
           ),
           SafeArea(
-            child: FutureBuilder<List<NiyaaInfo>>(
-              future: _futureInfos,
-              builder: (context, snapshot) {
+            child: Stack(
+              children: [
+                FutureBuilder<List<NiyaaInfo>>(
+                  future: _futureInfos,
+                  builder: (context, snapshot) {
                 if (snapshot.connectionState != ConnectionState.done) {
                   return const Center(child: CircularProgressIndicator());
                 }
@@ -87,10 +92,30 @@ class _CommunityPageState extends State<CommunityPage> {
                 final infos = snapshot.data!;
                 return ListView.builder(
                   padding: const EdgeInsets.only(top: 100, bottom: 24),
-                  itemCount: infos.length,
+                  itemCount: infos.length + 1,
                   itemBuilder: (context, index) {
-                    final info = infos[index];
-                    final liked = _liked.contains(index);
+                    if (index == 0) {
+                      return Padding(
+                        padding: const EdgeInsets.fromLTRB(15, 0, 15, 15),
+                        child: GestureDetector(
+                          onTap: () {
+                            Navigator.of(context).push(
+                              MaterialPageRoute(
+                                builder: (_) => const RankPage(),
+                              ),
+                            );
+                          },
+                          child: Image.asset(
+                            'assets/img_food_ranking.webp',
+                            width: double.infinity,
+                            fit: BoxFit.fitWidth,
+                          ),
+                        ),
+                      );
+                    }
+                    final listIndex = index - 1;
+                    final info = infos[listIndex];
+                    final liked = _liked.contains(listIndex);
                     final thumbnail = (info.thumbnails.isNotEmpty) ? info.thumbnails.first : '';
                     final videoPath = (info.videos.isNotEmpty) ? info.videos.first : '';
                     return Container(
@@ -231,6 +256,46 @@ class _CommunityPageState extends State<CommunityPage> {
                                           ),
                                         ),
                                       ),
+                                      Positioned(
+                                        bottom: 12,
+                                        right: 12,
+                                        child: GestureDetector(
+                                          behavior: HitTestBehavior.opaque,
+                                          onTap: () {
+                                            final videoId = videoPath.isNotEmpty
+                                                ? videoPath
+                                                : '${info.nickName}_${listIndex}';
+                                            showModalBottomSheet(
+                                              context: context,
+                                              isScrollControlled: true,
+                                              backgroundColor: Colors.transparent,
+                                              builder: (context) => CommentBottomSheet(
+                                                videoId: videoId,
+                                              ),
+                                            );
+                                          },
+                                          child: Container(
+                                            width: 40,
+                                            height: 40,
+                                            decoration: BoxDecoration(
+                                              color: Colors.white,
+                                              borderRadius: BorderRadius.circular(20),
+                                              boxShadow: const [
+                                                BoxShadow(
+                                                  color: Colors.black26,
+                                                  offset: Offset(2, 2),
+                                                  blurRadius: 4,
+                                                ),
+                                              ],
+                                            ),
+                                            child: const Icon(
+                                              Icons.comment,
+                                              color: Colors.black87,
+                                              size: 20,
+                                            ),
+                                          ),
+                                        ),
+                                      ),
                                     ],
                                   ),
                                 ),
@@ -243,6 +308,42 @@ class _CommunityPageState extends State<CommunityPage> {
                   },
                 );
               },
+                ),
+                Positioned(
+                  top: 16,
+                  right: 16,
+                  child: GestureDetector(
+                    behavior: HitTestBehavior.opaque,
+                    onTap: () {
+                      Navigator.of(context).push(
+                        MaterialPageRoute(
+                          builder: (_) => const AddCommunityPage(),
+                        ),
+                      );
+                    },
+                    child: Container(
+                      width: 44,
+                      height: 44,
+                      decoration: BoxDecoration(
+                        color: Colors.white,
+                        borderRadius: BorderRadius.circular(22),
+                        boxShadow: const [
+                          BoxShadow(
+                            color: Colors.black,
+                            offset: Offset(4, 4),
+                            blurRadius: 0,
+                          ),
+                        ],
+                      ),
+                      child: const Icon(
+                        Icons.add,
+                        color: Colors.black87,
+                        size: 28,
+                      ),
+                    ),
+                  ),
+                ),
+              ],
             ),
           ),
         ],
