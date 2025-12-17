@@ -24,14 +24,14 @@ class CoinProduct {
 
 const List<CoinProduct> kCoinProducts = [
   CoinProduct(productId: 'Niyaa', coins: 32, price: 0.99, priceText: '\$0.99'),
-  CoinProduct(productId: 'Totoa1', coins: 60, price: 1.99, priceText: '\$1.99'),
-  CoinProduct(productId: 'Totoa2', coins: 96, price: 2.99, priceText: '\$2.99'),
-  CoinProduct(productId: 'Totoa4', coins: 155, price: 4.99, priceText: '\$4.99'),
-  CoinProduct(productId: 'Totoa5', coins: 189, price: 5.99, priceText: '\$5.99'),
-  CoinProduct(productId: 'Totoa9', coins: 359, price: 9.99, priceText: '\$9.99'),
-  CoinProduct(productId: 'Totoa19', coins: 729, price: 19.99, priceText: '\$19.99'),
-  CoinProduct(productId: 'Totoa49', coins: 1869, price: 49.99, priceText: '\$49.99'),
-  CoinProduct(productId: 'Totoa99', coins: 3799, price: 99.99, priceText: '\$99.99'),
+  CoinProduct(productId: 'Niyaa1', coins: 60, price: 1.99, priceText: '\$1.99'),
+  CoinProduct(productId: 'Niyaa2', coins: 96, price: 2.99, priceText: '\$2.99'),
+  CoinProduct(productId: 'Niyaa4', coins: 155, price: 4.99, priceText: '\$4.99'),
+  CoinProduct(productId: 'Niyaa5', coins: 189, price: 5.99, priceText: '\$5.99'),
+  CoinProduct(productId: 'Niyaa9', coins: 359, price: 9.99, priceText: '\$9.99'),
+  CoinProduct(productId: 'Niyaa19', coins: 729, price: 19.99, priceText: '\$19.99'),
+  CoinProduct(productId: 'Niyaa49', coins: 1869, price: 49.99, priceText: '\$49.99'),
+  CoinProduct(productId: 'Niyaa99', coins: 3799, price: 99.99, priceText: '\$99.99'),
 ];
 
 class WalletPurchasePage extends StatefulWidget {
