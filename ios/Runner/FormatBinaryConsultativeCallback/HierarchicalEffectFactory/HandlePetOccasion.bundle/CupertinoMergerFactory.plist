@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderInSystem</key>
+	<string>statefulBaselineInset</string>
+	<key>containerFromKind</key>
+	<string>positionStyleBottom</string>
+	<key>labelModeFlags</key>
+	<string>semanticsVariableForce</string>
+	<key>layoutLevelType</key>
+	<string>progressbarAboutVariable</string>
+	<key>listenerSinceValue</key>
+	<string>previewStyleEdge</string>
+	<key>shaderKindCenter</key>
+	<string>popupOrBridge</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTextfieldSize</key>
+	<string>accessoryPerActivity</string>
+	<key>decorationTierInterval</key>
+	<string>effectViaBuffer</string>
+	<key>durationAgainstTask</key>
+	<string>dropdownbuttonProxyFeedback</string>
+	<key>repositoryActivityInset</key>
+	<string>routeContainProxy</string>
+	<key>timerForPattern</key>
+	<string>reducerParameterHead</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBeyondPrototype</key>
+	<string>explicitMatrixValidation</string>
+	<key>cosineFlyweightVelocity</key>
+	<string>navigatorLikeWork</string>
+	<key>cubitStrategyAcceleration</key>
+	<string>mutableThreadStyle</string>
+	<key>previewUntilStage</key>
+	<string>transformerAtWork</string>
+	<key>screenAroundForm</key>
+	<string>aspectVisitorShape</string>
+	<key>semanticTransformerStatus</key>
+	<string>loopModeTheme</string>
+	<key>sharedMovementStatus</key>
+	<string>timerContextFlags</string>
+</dict>
+</plist>

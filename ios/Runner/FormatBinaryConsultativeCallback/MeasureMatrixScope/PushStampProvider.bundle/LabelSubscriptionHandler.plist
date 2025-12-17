@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderVarAlignment</key>
+	<string>segmentByTask</string>
+	<key>checklistBridgeDelay</key>
+	<string>bulletContextDirection</string>
+	<key>customizedDurationDepth</key>
+	<string>easyCompleterCenter</string>
+	<key>easySpotName</key>
+	<string>taskFormSkewy</string>
+	<key>granularViewAlignment</key>
+	<string>statelessForTemple</string>
+	<key>lazyGiftInteraction</key>
+	<string>popupProxyBottom</string>
+	<key>mediaqueryFromTask</key>
+	<string>loopOperationEdge</string>
+	<key>otherWidgetTag</key>
+	<string>positionTempleStatus</string>
+	<key>relationalCoordinatorRotation</key>
+	<string>exceptionAroundJob</string>
+</dict>
+</plist>

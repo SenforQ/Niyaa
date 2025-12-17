@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerFromType</key>
+	<string>projectPhaseVisibility</string>
+	<key>layerBufferColor</key>
+	<string>grayscaleExceptValue</string>
+	<key>layerForComposite</key>
+	<string>masterWithOperation</string>
+	<key>sineByMemento</key>
+	<string>sceneSystemDirection</string>
+	<key>switchStageFrequency</key>
+	<string>progressbarAsScope</string>
+</dict>
+</plist>

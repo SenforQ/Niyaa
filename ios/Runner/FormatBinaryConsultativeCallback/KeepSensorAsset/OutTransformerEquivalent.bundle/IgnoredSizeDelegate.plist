@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directIntegerValidation</key>
+	<string>usageProcessBound</string>
+	<key>finalIntensityCenter</key>
+	<string>activityShapeTag</string>
+	<key>methodPatternSkewy</key>
+	<string>requestBeyondVisitor</string>
+	<key>modulusOperationTag</key>
+	<string>callbackOutsideInterpreter</string>
+	<key>permissiveBitrateSkewx</key>
+	<string>chartScopeSpacing</string>
+	<key>reductionAndFacade</key>
+	<string>groupFormStatus</string>
+	<key>sessionPrototypeVisibility</key>
+	<string>masterParameterResponse</string>
+	<key>topicAgainstCycle</key>
+	<string>draggableStoryboardPosition</string>
+</dict>
+</plist>

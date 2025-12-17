@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBesideActivity</key>
+	<string>interpolationMediatorLeft</string>
+	<key>cardAsStructure</key>
+	<string>hardDependencyBound</string>
+	<key>constraintBufferFeedback</key>
+	<string>statefulPaddingPosition</string>
+	<key>labelActionVisibility</key>
+	<string>uniqueMetadataFlags</string>
+	<key>mediumRepositoryPosition</key>
+	<string>layerInFacade</string>
+	<key>modulusAboutInterpreter</key>
+	<string>asyncInChain</string>
+</dict>
+</plist>

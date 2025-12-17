@@ -2,6 +2,8 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'services/coin_service.dart';
+import 'wallet_purchase_page.dart';
 
 class ChatMessage {
   final String role; // 'user' or 'assistant'
@@ -43,6 +45,22 @@ class _HomePageState extends State<HomePage> {
     final text = _controller.text.trim();
     if (text.isEmpty || _isSending) return;
 
+    // Check coins before sending
+    final currentCoins = await CoinService.getCurrentCoins();
+    if (currentCoins < 30) {
+      if (!mounted) return;
+      _showInsufficientCoinsDialog();
+      return;
+    }
+
+    // Deduct coins
+    final success = await CoinService.deductCoins(30);
+    if (!success) {
+      if (!mounted) return;
+      _showInsufficientCoinsDialog();
+      return;
+    }
+
     setState(() {
       _messages.add(ChatMessage(role: 'user', content: text));
       _isSending = true;
@@ -67,6 +85,68 @@ class _HomePageState extends State<HomePage> {
         });
       }
     }
+  }
+
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: Colors.white,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+        title: const Text(
+          'Insufficient Coins',
+          style: TextStyle(
+            fontSize: 20,
+            fontWeight: FontWeight.bold,
+            color: Colors.black87,
+          ),
+        ),
+        content: const Text(
+          'You need 30 Coins to send a message. Please purchase coins first.',
+          style: TextStyle(
+            fontSize: 16,
+            color: Colors.black87,
+          ),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(),
+            child: const Text(
+              'Cancel',
+              style: TextStyle(
+                color: Colors.black54,
+                fontSize: 16,
+              ),
+            ),
+          ),
+          ElevatedButton(
+            onPressed: () {
+              Navigator.of(context).pop();
+              Navigator.of(context).push(
+                MaterialPageRoute(
+                  builder: (_) => const WalletPurchasePage(),
+                ),
+              );
+            },
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color(0xFFFFDC05),
+              foregroundColor: Colors.black87,
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(20),
+              ),
+              padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+            ),
+            child: const Text(
+              'Purchase',
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+                fontSize: 16,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
   }
 
   Future<String> _callZhipu(String prompt) async {

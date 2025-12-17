@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentCompositeTransparency</key>
+	<string>synchronousRowCenter</string>
+	<key>radiusAsPhase</key>
+	<string>referencePhaseAlignment</string>
+	<key>radiusFromShape</key>
+	<string>cycleForMode</string>
+	<key>richtextOrMode</key>
+	<string>signatureLikeVar</string>
+	<key>serviceMethodValidation</key>
+	<string>particleActivityCenter</string>
+</dict>
+</plist>

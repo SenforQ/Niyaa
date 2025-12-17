@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerObserverShape</key>
+	<string>fixedMaterialSkewx</string>
+	<key>asyncConstraintTag</key>
+	<string>usedStampSpacing</string>
+	<key>coordinatorProxyName</key>
+	<string>taskCycleInset</string>
+	<key>grayscaleTypeMomentum</key>
+	<string>granularRouterTail</string>
+	<key>painterPhaseSkewx</key>
+	<string>routerMementoOrientation</string>
+	<key>rowVisitorMargin</key>
+	<string>sharedGradientBehavior</string>
+	<key>skirtTaskDepth</key>
+	<string>uniquePopupFeedback</string>
+</dict>
+</plist>

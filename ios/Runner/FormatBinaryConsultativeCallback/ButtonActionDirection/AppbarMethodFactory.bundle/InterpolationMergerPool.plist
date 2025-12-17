@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDecorationContrast</key>
+	<string>immutableEntropyBorder</string>
+	<key>alignmentTierBound</key>
+	<string>draggableHandlerVisible</string>
+	<key>completionCycleType</key>
+	<string>featureContextCount</string>
+	<key>curvePatternContrast</key>
+	<string>firstCoordinatorInteraction</string>
+	<key>graphOutsideWork</key>
+	<string>mediumThreadBottom</string>
+	<key>hashMediatorInset</key>
+	<string>columnInSystem</string>
+	<key>largePopupTag</key>
+	<string>dependencyStrategyBehavior</string>
+	<key>rowPatternStyle</key>
+	<string>imperativePetTag</string>
+	<key>stackPlatformShade</key>
+	<string>nibSingletonAlignment</string>
+	<key>tangentTierDensity</key>
+	<string>entropyChainOffset</string>
+</dict>
+</plist>

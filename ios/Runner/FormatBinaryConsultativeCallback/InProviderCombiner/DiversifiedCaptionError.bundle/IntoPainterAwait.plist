@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainLikeMode</key>
+	<string>observerProcessOpacity</string>
+	<key>intensityBridgeOrientation</key>
+	<string>alphaCompositeShade</string>
+	<key>interactorAndScope</key>
+	<string>explicitSpotMode</string>
+	<key>kernelForStructure</key>
+	<string>profileAlongDecorator</string>
+	<key>playbackBesideFunction</key>
+	<string>largePlateStatus</string>
+</dict>
+</plist>

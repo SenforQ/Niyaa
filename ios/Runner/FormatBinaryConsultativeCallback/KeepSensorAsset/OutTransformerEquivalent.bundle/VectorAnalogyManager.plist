@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLikeMethod</key>
+	<string>segueStyleName</string>
+	<key>asyncTierScale</key>
+	<string>frameBeyondNumber</string>
+	<key>observerFrameworkBorder</key>
+	<string>sliderParamIndex</string>
+	<key>resultScopeForce</key>
+	<string>singletonTierSpacing</string>
+	<key>substantialStorageInteraction</key>
+	<string>textFlyweightPosition</string>
+</dict>
+</plist>

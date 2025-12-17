@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionThroughEnvironment</key>
+	<string>painterAroundLevel</string>
+	<key>dropdownbuttonModeFeedback</key>
+	<string>effectAtFunction</string>
+	<key>iterativePreviewOffset</key>
+	<string>reducerLayerCoord</string>
+	<key>smartSizeState</key>
+	<string>stepObserverFlags</string>
+	<key>tabviewBySystem</key>
+	<string>streamBesideAdapter</string>
+	<key>taskAndPrototype</key>
+	<string>cellInFacade</string>
+</dict>
+</plist>

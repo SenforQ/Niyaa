@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentRadiusSaturation</key>
+	<string>pointAlongSystem</string>
+	<key>cubitKindHue</key>
+	<string>popupPerKind</string>
+	<key>drawerModeTheme</key>
+	<string>frameThroughAdapter</string>
+	<key>featureAgainstTask</key>
+	<string>channelVarBound</string>
+	<key>immediateNavigatorInset</key>
+	<string>channelExceptVar</string>
+	<key>navigationWorkTag</key>
+	<string>activeOverlayHue</string>
+	<key>reductionAroundTask</key>
+	<string>bitrateInsideType</string>
+</dict>
+</plist>

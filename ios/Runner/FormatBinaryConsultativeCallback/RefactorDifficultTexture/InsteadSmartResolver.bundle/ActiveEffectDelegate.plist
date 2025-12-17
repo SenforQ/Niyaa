@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMomentumVelocity</key>
+	<string>challengeParameterLeft</string>
+	<key>backwardVectorAlignment</key>
+	<string>serviceCycleStyle</string>
+	<key>containerTypeVelocity</key>
+	<string>otherBlocAppearance</string>
+	<key>customRepositoryContrast</key>
+	<string>pinchablePointBehavior</string>
+	<key>gateAndDecorator</key>
+	<string>playbackNearContext</string>
+	<key>handlerPatternScale</key>
+	<string>robustResultScale</string>
+	<key>originalScaffoldDistance</key>
+	<string>sharedAnchorDelay</string>
+	<key>resultStyleDuration</key>
+	<string>progressbarBridgeShade</string>
+	<key>viewStructurePressure</key>
+	<string>mediaqueryTaskAlignment</string>
+</dict>
+</plist>

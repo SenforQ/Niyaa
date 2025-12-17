@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAsStructure</key>
+	<string>localizationIncludeObserver</string>
+	<key>displayableTickerStatus</key>
+	<string>accessoryCycleFeedback</string>
+	<key>entityCompositeTail</key>
+	<string>topicLayerTag</string>
+	<key>entropyTypeHead</key>
+	<string>resourceStrategyTheme</string>
+	<key>histogramTaskTail</key>
+	<string>screenKindContrast</string>
+	<key>otherNodeFormat</key>
+	<string>layoutByActivity</string>
+	<key>otherNotifierValidation</key>
+	<string>callbackNumberRate</string>
+	<key>sophisticatedTaskFormat</key>
+	<string>routeIncludeTask</string>
+</dict>
+</plist>

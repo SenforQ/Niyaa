@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCompleterShade</key>
+	<string>taskContainLayer</string>
+	<key>cupertinoObserverVisibility</key>
+	<string>listviewParamAcceleration</string>
+	<key>globalRequestBehavior</key>
+	<string>scaffoldForMethod</string>
+	<key>newestSignDistance</key>
+	<string>drawerActivityInteraction</string>
+	<key>particleContainFlyweight</key>
+	<string>taskOfMode</string>
+	<key>pinchableMusicAppearance</key>
+	<string>interactiveWidgetMode</string>
+	<key>streamByVar</key>
+	<string>normalStepBound</string>
+	<key>taskActionTint</key>
+	<string>textfieldProcessIndex</string>
+</dict>
+</plist>

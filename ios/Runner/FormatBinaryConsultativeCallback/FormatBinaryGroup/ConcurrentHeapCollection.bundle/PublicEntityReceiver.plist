@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedModelName</key>
+	<string>sampleTypeFeedback</string>
+	<key>completerForContext</key>
+	<string>observerStageLeft</string>
+	<key>subscriptionIncludeState</key>
+	<string>projectBufferTail</string>
+	<key>tickerValueBorder</key>
+	<string>immutableNavigationPadding</string>
+	<key>typicalBuilderVisibility</key>
+	<string>heroOfPattern</string>
+	<key>unaryStageDensity</key>
+	<string>protocolIncludeObserver</string>
+	<key>zoneTypeCoord</key>
+	<string>themeProxyResponse</string>
+</dict>
+</plist>

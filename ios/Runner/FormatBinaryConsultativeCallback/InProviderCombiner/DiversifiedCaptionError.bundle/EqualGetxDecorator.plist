@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredMaterialEdge</key>
+	<string>curveAsOperation</string>
+	<key>descriptionDespiteContext</key>
+	<string>pinchableAssetAlignment</string>
+	<key>iconScopeCoord</key>
+	<string>popupVersusStrategy</string>
+	<key>labelActivityTail</key>
+	<string>interpolationVisitorTail</string>
+	<key>progressbarCommandResponse</key>
+	<string>temporaryProviderSpacing</string>
+	<key>shaderPerCycle</key>
+	<string>modelOutsideParameter</string>
+	<key>transitionForOperation</key>
+	<string>toolFromForm</string>
+</dict>
+</plist>

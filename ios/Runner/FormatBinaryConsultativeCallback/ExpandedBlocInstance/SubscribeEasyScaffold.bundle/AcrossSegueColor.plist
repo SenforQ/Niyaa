@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMovementInteraction</key>
+	<string>cardViaInterpreter</string>
+	<key>captionInSystem</key>
+	<string>loopPlatformSpeed</string>
+	<key>checklistForProxy</key>
+	<string>errorIncludeFlyweight</string>
+	<key>coordinatorExceptPrototype</key>
+	<string>elasticBlocStyle</string>
+	<key>coordinatorThanDecorator</key>
+	<string>adaptiveAlignmentCoord</string>
+	<key>listviewModeShape</key>
+	<string>geometricCurveTransparency</string>
+	<key>sceneKindBottom</key>
+	<string>stateUntilType</string>
+</dict>
+</plist>

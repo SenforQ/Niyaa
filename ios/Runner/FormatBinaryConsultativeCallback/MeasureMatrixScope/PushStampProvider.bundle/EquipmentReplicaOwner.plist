@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleToolBottom</key>
+	<string>providerLikeWork</string>
+	<key>beginnerAnimationFlags</key>
+	<string>smallEqualizationTop</string>
+	<key>graphInsideCommand</key>
+	<string>accessibleIndicatorOrigin</string>
+	<key>isolateStructureTint</key>
+	<string>independentBulletOpacity</string>
+	<key>loopSingletonCoord</key>
+	<string>cardFacadeMargin</string>
+	<key>positionSingletonShape</key>
+	<string>repositoryStrategyFeedback</string>
+	<key>respectiveTransitionTop</key>
+	<string>contractionAtNumber</string>
+</dict>
+</plist>

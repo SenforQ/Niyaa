@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarMediatorTheme</key>
+	<string>materialTextValidation</string>
+	<key>commandTierEdge</key>
+	<string>dialogsContainFunction</string>
+	<key>decorationBeyondActivity</key>
+	<string>radioInValue</string>
+	<key>factoryAgainstSystem</key>
+	<string>exceptionOrState</string>
+	<key>menuLayerOpacity</key>
+	<string>stampByLayer</string>
+	<key>nodeShapeOpacity</key>
+	<string>sophisticatedChannelsMomentum</string>
+	<key>progressbarScopePressure</key>
+	<string>iconBridgeFormat</string>
+	<key>scrollWithoutMode</key>
+	<string>viewObserverBehavior</string>
+	<key>vectorActionCount</key>
+	<string>projectionStyleCenter</string>
+</dict>
+</plist>

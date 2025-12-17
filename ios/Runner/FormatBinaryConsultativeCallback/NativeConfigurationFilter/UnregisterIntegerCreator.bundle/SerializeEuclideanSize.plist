@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeViewStyle</key>
+	<string>globalMetadataBorder</string>
+	<key>arithmeticThanPhase</key>
+	<string>accordionAsyncTag</string>
+	<key>chapterStyleBehavior</key>
+	<string>textFormInteraction</string>
+	<key>rectStageInterval</key>
+	<string>tabbarPerJob</string>
+	<key>resilientPetDensity</key>
+	<string>descriptorNearFunction</string>
+	<key>semanticDimensionPadding</key>
+	<string>hierarchicalDescriptionOpacity</string>
+</dict>
+</plist>

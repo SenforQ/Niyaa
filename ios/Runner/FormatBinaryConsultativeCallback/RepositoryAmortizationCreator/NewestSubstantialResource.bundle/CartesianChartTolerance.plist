@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTempleTheme</key>
+	<string>subpixelOutsideStructure</string>
+	<key>alertTempleInterval</key>
+	<string>concurrentViewDepth</string>
+	<key>descriptorShapeVisible</key>
+	<string>semanticEntityVisibility</string>
+	<key>immutableChecklistTop</key>
+	<string>prevCheckboxSize</string>
+	<key>resourceMementoInteraction</key>
+	<string>notifierInsideFramework</string>
+	<key>screenLikeDecorator</key>
+	<string>typicalKernelDistance</string>
+	<key>smallDelegateVelocity</key>
+	<string>robustStorageTail</string>
+	<key>textStyleType</key>
+	<string>timerThroughState</string>
+	<key>uniqueMediaSaturation</key>
+	<string>indicatorStageSize</string>
+</dict>
+</plist>

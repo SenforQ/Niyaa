@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoInterpolationSize</key>
+	<string>resilientInjectionMargin</string>
+	<key>exceptionFacadeRotation</key>
+	<string>projectScopeSpeed</string>
+	<key>futureActionValidation</key>
+	<string>giftScopeDistance</string>
+	<key>keyPresenterAppearance</key>
+	<string>directlyNavigatorPosition</string>
+	<key>particleSystemSpacing</key>
+	<string>interactiveGraphicSpacing</string>
+	<key>presenterFormSize</key>
+	<string>resourceVisitorBorder</string>
+</dict>
+</plist>

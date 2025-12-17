@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStatelessOffset</key>
+	<string>awaitPatternTransparency</string>
+	<key>convolutionValueMode</key>
+	<string>concurrentQueueScale</string>
+	<key>lastStepDuration</key>
+	<string>baseWorkVisibility</string>
+	<key>layoutVarValidation</key>
+	<string>aspectratioThanKind</string>
+	<key>normalEffectSkewy</key>
+	<string>memberLikeAdapter</string>
+	<key>retainedLabelSkewy</key>
+	<string>reusableReferenceTheme</string>
+	<key>segmentAsPhase</key>
+	<string>taskUntilPrototype</string>
+	<key>semanticsObserverTheme</key>
+	<string>compositionShapeFrequency</string>
+	<key>transitionFunctionVelocity</key>
+	<string>serviceTempleTail</string>
+</dict>
+</plist>

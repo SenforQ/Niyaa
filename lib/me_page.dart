@@ -7,6 +7,8 @@ import 'feedback_page.dart';
 import 'privacy_policy_page.dart';
 import 'user_agreement_page.dart';
 import 'niyaa_editor_page.dart';
+import 'vip_sub_page.dart';
+import 'wallet_purchase_page.dart';
 
 class MePage extends StatefulWidget {
   const MePage({super.key});
@@ -116,57 +118,98 @@ class _MePageState extends State<MePage> {
   Widget _buildUserHeader() {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 16),
-      child: Row(
+      child: Column(
         children: [
-          Container(
-            width: 100,
-            height: 100,
-            decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(16),
-              boxShadow: [
-                BoxShadow(
-                  color: Colors.black,
-                  blurRadius: 0,
-                  offset: const Offset(4, 4),
-                ),
-              ],
-            ),
-            child: ClipRRect(
-              borderRadius: BorderRadius.circular(16),
-              child: _avatarFile != null
-                  ? Image.file(
-                      _avatarFile!,
-                      width: 100,
-                      height: 100,
-                      fit: BoxFit.cover,
-                    )
-                  : Image.asset(
-                      'assets/header_icon.webp',
-                      width: 100,
-                      height: 100,
-                      fit: BoxFit.cover,
+          Row(
+            children: [
+              Container(
+                width: 100,
+                height: 100,
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(16),
+                  boxShadow: [
+                    BoxShadow(
+                      color: Colors.black,
+                      blurRadius: 0,
+                      offset: const Offset(4, 4),
                     ),
-            ),
+                  ],
+                ),
+                child: ClipRRect(
+                  borderRadius: BorderRadius.circular(16),
+                  child: _avatarFile != null
+                      ? Image.file(
+                          _avatarFile!,
+                          width: 100,
+                          height: 100,
+                          fit: BoxFit.cover,
+                        )
+                      : Image.asset(
+                          'assets/header_icon.webp',
+                          width: 100,
+                          height: 100,
+                          fit: BoxFit.cover,
+                        ),
+                ),
+              ),
+              const SizedBox(width: 16),
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      _nickname,
+                      style: const TextStyle(
+                        fontSize: 24,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.black87,
+                      ),
+                    ),
+                    const SizedBox(height: 8),
+                    Text(
+                      _signature,
+                      style: const TextStyle(
+                        fontSize: 14,
+                        color: Colors.black54,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
           ),
-          const SizedBox(width: 16),
-          Expanded(
+          const SizedBox(height: 16),
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 0),
             child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text(
-                  _nickname,
-                  style: const TextStyle(
-                    fontSize: 24,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.black87,
+                GestureDetector(
+                  onTap: () {
+                    Navigator.of(context).push(
+                      MaterialPageRoute(
+                        builder: (_) => const WalletPurchasePage(),
+                      ),
+                    );
+                  },
+                  child: Image.asset(
+                    'assets/bg_me_wallet.webp',
+                    width: double.infinity,
+                    fit: BoxFit.fitWidth,
                   ),
                 ),
-                const SizedBox(height: 8),
-                Text(
-                  _signature,
-                  style: const TextStyle(
-                    fontSize: 14,
-                    color: Colors.black54,
+                const SizedBox(height: 12),
+                GestureDetector(
+                  onTap: () {
+                    Navigator.of(context).push(
+                      MaterialPageRoute(
+                        builder: (_) => const VipSubPage(),
+                      ),
+                    );
+                  },
+                  child: Image.asset(
+                    'assets/bg_me_vip.webp',
+                    width: double.infinity,
+                    fit: BoxFit.fitWidth,
                   ),
                 ),
               ],

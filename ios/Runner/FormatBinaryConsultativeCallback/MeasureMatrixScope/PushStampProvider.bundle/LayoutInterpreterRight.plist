@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSpotIndex</key>
+	<string>graphScopeLeft</string>
+	<key>delegateDuringOperation</key>
+	<string>menuOperationAppearance</string>
+	<key>effectActivityOrigin</key>
+	<string>tabbarDespiteContext</string>
+	<key>indicatorViaScope</key>
+	<string>textureForAdapter</string>
+	<key>listviewAmongCycle</key>
+	<string>featureAlongForm</string>
+	<key>managerFlyweightTag</key>
+	<string>backwardCapsuleContrast</string>
+	<key>resourceStrategyVisibility</key>
+	<string>sliderAndFacade</string>
+	<key>usecaseAlongWork</key>
+	<string>immutableStatefulScale</string>
+</dict>
+</plist>

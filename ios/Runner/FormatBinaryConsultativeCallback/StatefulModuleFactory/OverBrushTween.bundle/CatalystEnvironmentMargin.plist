@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyAgainstPattern</key>
+	<string>mainSkirtCount</string>
+	<key>documentLevelVisibility</key>
+	<string>extensionOfState</string>
+	<key>groupThroughComposite</key>
+	<string>delegateMethodVelocity</string>
+	<key>imageBesideStructure</key>
+	<string>remainderPlatformSkewy</string>
+	<key>overlayContainStage</key>
+	<string>sequentialTransformerPadding</string>
+	<key>radiusValueOpacity</key>
+	<string>shaderFacadeTransparency</string>
+	<key>smartStatelessPosition</key>
+	<string>finalWidgetTag</string>
+	<key>spineStageDelay</key>
+	<string>bitrateFacadeDelay</string>
+	<key>switchOfFramework</key>
+	<string>controllerViaMethod</string>
+</dict>
+</plist>

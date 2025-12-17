@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGesturedetectorTheme</key>
+	<string>uniformStreamLeft</string>
+	<key>blocContainEnvironment</key>
+	<string>observerVarShape</string>
+	<key>concurrentObserverVisibility</key>
+	<string>heapValueScale</string>
+	<key>equipmentPlatformShade</key>
+	<string>primaryEquipmentColor</string>
+	<key>injectionChainState</key>
+	<string>queryDespiteEnvironment</string>
+	<key>injectionContainActivity</key>
+	<string>nativeCompleterOffset</string>
+	<key>listviewPrototypeRight</key>
+	<string>nativeContainerSpacing</string>
+	<key>modelForEnvironment</key>
+	<string>geometricBuilderSpeed</string>
+	<key>protocolInsideParam</key>
+	<string>interactorAwayCommand</string>
+</dict>
+</plist>

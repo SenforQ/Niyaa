@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAlongChain</key>
+	<string>specifierCycleDuration</string>
+	<key>cellThroughVariable</key>
+	<string>screenExceptLayer</string>
+	<key>declarativeListenerBrightness</key>
+	<string>heapCycleOffset</string>
+	<key>fixedBufferPressure</key>
+	<string>lostWidgetCenter</string>
+	<key>liteProviderVisibility</key>
+	<string>smartFutureHead</string>
+	<key>logarithmJobSpacing</key>
+	<string>loopBufferDensity</string>
+	<key>precisionAsParam</key>
+	<string>statelessMethodSize</string>
+</dict>
+</plist>

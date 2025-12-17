@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationAlongVariable</key>
+	<string>alertWithoutBridge</string>
+	<key>grainBridgeBrightness</key>
+	<string>presenterStateCount</string>
+	<key>indicatorAgainstSystem</key>
+	<string>largeLayoutInteraction</string>
+	<key>interactorSystemKind</key>
+	<string>diversifiedCurveVisible</string>
+	<key>kernelBridgeDirection</key>
+	<string>completerExceptCycle</string>
+	<key>observerAdapterRight</key>
+	<string>tensorCardAppearance</string>
+	<key>stateAndPattern</key>
+	<string>commonKernelResponse</string>
+</dict>
+</plist>

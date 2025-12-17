@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperSystemShade</key>
+	<string>spritePerMethod</string>
+	<key>controllerParameterSaturation</key>
+	<string>configurationExceptActivity</string>
+	<key>diffableExceptionName</key>
+	<string>easyChannelTint</string>
+	<key>musicBesideWork</key>
+	<string>permanentWidgetSpacing</string>
+	<key>routeProcessSpacing</key>
+	<string>resolverInsideScope</string>
+	<key>screenWithoutOperation</key>
+	<string>tappableViewInterval</string>
+	<key>segmentDuringLayer</key>
+	<string>compositionDespiteVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoLayoutStyle</key>
+	<string>compositionAtContext</string>
+	<key>mediaqueryBeyondFunction</key>
+	<string>smartScreenTheme</string>
+	<key>playbackAsChain</key>
+	<string>scrollableStackForce</string>
+	<key>scaffoldInterpreterBottom</key>
+	<string>projectionSinceParameter</string>
+	<key>sceneExceptVariable</key>
+	<string>alphaCycleInterval</string>
+</dict>
+</plist>

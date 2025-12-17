@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAnimationOffset</key>
+	<string>finalIntensityResponse</string>
+	<key>exceptionVisitorBottom</key>
+	<string>singleCharacterEdge</string>
+	<key>gradientInterpreterRight</key>
+	<string>accessibleBuilderLeft</string>
+	<key>roleExceptMediator</key>
+	<string>appbarInsideMode</string>
+	<key>sliderOutsideMethod</key>
+	<string>imageSystemForce</string>
+</dict>
+</plist>

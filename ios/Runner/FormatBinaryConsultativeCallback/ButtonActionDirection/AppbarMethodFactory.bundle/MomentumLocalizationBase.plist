@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerParamVisibility</key>
+	<string>rectOfCommand</string>
+	<key>containerOrScope</key>
+	<string>tweenPerParameter</string>
+	<key>injectionPerVar</key>
+	<string>utilAdapterName</string>
+	<key>layerTierBound</key>
+	<string>borderWithAdapter</string>
+	<key>loopVariableVelocity</key>
+	<string>momentumVarDuration</string>
+	<key>mobileCatalystOpacity</key>
+	<string>decorationDuringTask</string>
+	<key>nibValueVisible</key>
+	<string>popupAtActivity</string>
+	<key>optionVarSaturation</key>
+	<string>mediumHashDelay</string>
+</dict>
+</plist>

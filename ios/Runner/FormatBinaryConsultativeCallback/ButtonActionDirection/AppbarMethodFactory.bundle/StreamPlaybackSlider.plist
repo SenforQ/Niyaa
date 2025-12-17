@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBeyondMediator</key>
+	<string>observerOutsideComposite</string>
+	<key>coordinatorOfState</key>
+	<string>reactiveBulletAlignment</string>
+	<key>fragmentAtDecorator</key>
+	<string>commonMomentumOpacity</string>
+	<key>ignoredLabelMargin</key>
+	<string>tabbarBeyondCycle</string>
+	<key>mediaMementoLocation</key>
+	<string>persistentMediaMomentum</string>
+	<key>popupAsStyle</key>
+	<string>scrollableDocumentDirection</string>
+	<key>respectiveContractionDistance</key>
+	<string>tensorOptionSpacing</string>
+	<key>stackTempleTail</key>
+	<string>sustainableRepositoryMargin</string>
+	<key>tableWithPhase</key>
+	<string>comprehensiveCursorColor</string>
+</dict>
+</plist>

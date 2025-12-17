@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretePositionedAlignment</key>
+	<string>resourceWorkTransparency</string>
+	<key>draggableFeatureScale</key>
+	<string>mobileActionPadding</string>
+	<key>effectAtFunction</key>
+	<string>listviewLikeAction</string>
+	<key>exceptionAgainstScope</key>
+	<string>inactiveModelContrast</string>
+	<key>missedAnimationDensity</key>
+	<string>configurationIncludeProxy</string>
+	<key>skirtVariableTag</key>
+	<string>chapterAlongOperation</string>
+	<key>storyboardCommandBehavior</key>
+	<string>usecaseAmongFacade</string>
+</dict>
+</plist>

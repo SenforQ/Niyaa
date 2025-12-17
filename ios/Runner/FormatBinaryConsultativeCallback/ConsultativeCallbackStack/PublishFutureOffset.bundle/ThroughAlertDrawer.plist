@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletBeyondState</key>
+	<string>missedInterpolationEdge</string>
+	<key>dynamicTransformerSpacing</key>
+	<string>multiplicationAgainstValue</string>
+	<key>labelUntilForm</key>
+	<string>resizableCoordinatorRotation</string>
+	<key>scrollableRouterBrightness</key>
+	<string>listenerWithoutVar</string>
+	<key>unsortedRowSkewy</key>
+	<string>featureBridgeMomentum</string>
+</dict>
+</plist>

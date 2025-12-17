@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderJobOrigin</key>
+	<string>threadNearNumber</string>
+	<key>exceptionCommandType</key>
+	<string>previewOrForm</string>
+	<key>interfaceTierAppearance</key>
+	<string>tableCompositeInteraction</string>
+	<key>mainGesturedetectorContrast</key>
+	<string>resizableRadiusSpeed</string>
+	<key>sophisticatedMethodBrightness</key>
+	<string>invisibleBlocRate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicServiceRate</key>
+	<string>immediateSlashStyle</string>
+	<key>customNibRight</key>
+	<string>animationKindFeedback</string>
+	<key>descriptionSingletonColor</key>
+	<string>multiAsyncShade</string>
+	<key>grainAtProcess</key>
+	<string>stackOfBridge</string>
+	<key>numericalChartFormat</key>
+	<string>alignmentLikeLevel</string>
+	<key>themePerBuffer</key>
+	<string>movementWithoutTier</string>
+	<key>topicPhaseBorder</key>
+	<string>basicMethodCoord</string>
+</dict>
+</plist>

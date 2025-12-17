@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFunctionAcceleration</key>
+	<string>allocatorStageBound</string>
+	<key>declarativeChannelBrightness</key>
+	<string>previewViaComposite</string>
+	<key>delegateKindOffset</key>
+	<string>robustAlignmentMargin</string>
+	<key>ephemeralRectMomentum</key>
+	<string>equalizationUntilProxy</string>
+	<key>resultJobTransparency</key>
+	<string>commandAlongPlatform</string>
+	<key>storagePerCommand</key>
+	<string>subscriptionDuringState</string>
+	<key>synchronousMasterFrequency</key>
+	<string>groupThroughFunction</string>
+	<key>taskBridgeVisibility</key>
+	<string>threadAlongState</string>
+</dict>
+</plist>

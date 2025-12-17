@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAsTask</key>
+	<string>unsortedBaselineVelocity</string>
+	<key>gridViaAction</key>
+	<string>hardGrainSpacing</string>
+	<key>nodeExceptStage</key>
+	<string>staticMethodOrientation</string>
+	<key>responsiveBoxshadowAppearance</key>
+	<string>directLoopHue</string>
+	<key>streamOfTier</key>
+	<string>bufferCommandDelay</string>
+</dict>
+</plist>

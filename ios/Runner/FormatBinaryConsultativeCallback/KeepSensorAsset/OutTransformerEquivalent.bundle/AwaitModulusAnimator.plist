@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionStageMode</key>
+	<string>swiftOrKind</string>
+	<key>fusedPositionedLocation</key>
+	<string>symbolInMode</string>
+	<key>inheritedHeapTag</key>
+	<string>instructionCycleKind</string>
+	<key>primaryUsageDirection</key>
+	<string>accessibleIndicatorBottom</string>
+	<key>sensorFromChain</key>
+	<string>mediaqueryStructureStatus</string>
+	<key>sinkBufferFlags</key>
+	<string>accordionViewCoord</string>
+	<key>sizeVersusEnvironment</key>
+	<string>grainAgainstNumber</string>
+	<key>stampOfStructure</key>
+	<string>labelContextDelay</string>
+	<key>standaloneModalRate</key>
+	<string>isolateCommandFeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPrototypeOpacity</key>
+	<string>descriptionAdapterDensity</string>
+	<key>behaviorInStructure</key>
+	<string>coordinatorWithoutMediator</string>
+	<key>bulletLikeTask</key>
+	<string>blocThanTier</string>
+	<key>composableProgressbarEdge</key>
+	<string>expandedStateStatus</string>
+	<key>criticalPopupBrightness</key>
+	<string>tickerInWork</string>
+	<key>geometricPainterShape</key>
+	<string>tweenModeTop</string>
+	<key>missedTransformerTag</key>
+	<string>rowOutsideBuffer</string>
+	<key>resizableEntityDistance</key>
+	<string>listenerAndFacade</string>
+	<key>screenPrototypeInteraction</key>
+	<string>streamInterpreterType</string>
+	<key>statefulOutsidePattern</key>
+	<string>hierarchicalBuilderSize</string>
+</dict>
+</plist>

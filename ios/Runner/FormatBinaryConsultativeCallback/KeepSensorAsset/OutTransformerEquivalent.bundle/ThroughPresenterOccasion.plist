@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackWithoutObserver</key>
+	<string>lostTimerState</string>
+	<key>heapDuringPlatform</key>
+	<string>notifierCommandStyle</string>
+	<key>marginContainNumber</key>
+	<string>stateStyleBrightness</string>
+	<key>plateDuringTemple</key>
+	<string>mapDuringStyle</string>
+	<key>skinPlatformEdge</key>
+	<string>sortedRowDepth</string>
+</dict>
+</plist>

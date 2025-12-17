@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonScopeMomentum</key>
+	<string>rowSingletonMode</string>
+	<key>chartLevelRotation</key>
+	<string>graphVariablePadding</string>
+	<key>compositionalCubitFormat</key>
+	<string>navigatorSingletonType</string>
+	<key>localGridviewFrequency</key>
+	<string>asyncPhaseCoord</string>
+	<key>monsterLikePlatform</key>
+	<string>activatedScrollRotation</string>
+	<key>nodeParameterFrequency</key>
+	<string>errorBySystem</string>
+	<key>queueAroundCommand</key>
+	<string>providerFrameworkInset</string>
+	<key>secondPopupDirection</key>
+	<string>queueFacadeShape</string>
+	<key>sequentialTickerForce</key>
+	<string>loopAmongDecorator</string>
+	<key>smallStreamSpeed</key>
+	<string>backwardSpotOpacity</string>
+</dict>
+</plist>

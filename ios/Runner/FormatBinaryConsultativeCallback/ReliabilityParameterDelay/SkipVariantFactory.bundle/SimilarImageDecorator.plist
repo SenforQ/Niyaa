@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCompositionLocation</key>
+	<string>grainLikeProcess</string>
+	<key>checkboxAdapterInteraction</key>
+	<string>dimensionStateBehavior</string>
+	<key>checkboxOutsideTask</key>
+	<string>storageActivityBound</string>
+	<key>loopModeCount</key>
+	<string>disabledAlertFrequency</string>
+	<key>metadataAsState</key>
+	<string>petStyleInterval</string>
+	<key>mobileCheckboxHue</key>
+	<string>controllerValueTint</string>
+	<key>modalByPrototype</key>
+	<string>transformerActionContrast</string>
+	<key>referenceStrategyHead</key>
+	<string>handlerParamShade</string>
+	<key>semanticsAwayLevel</key>
+	<string>offsetAgainstAdapter</string>
+	<key>textProxySkewx</key>
+	<string>layoutCycleBorder</string>
+</dict>
+</plist>

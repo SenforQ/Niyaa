@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorForScope</key>
+	<string>awaitSincePrototype</string>
+	<key>batchKindState</key>
+	<string>greatChapterCoord</string>
+	<key>declarativeResultType</key>
+	<string>stampStateDuration</string>
+	<key>deferredPreviewDistance</key>
+	<string>gestureSingletonTag</string>
+	<key>displayableTitleSkewy</key>
+	<string>richtextAmongScope</string>
+	<key>originalSubscriptionLeft</key>
+	<string>storeContainContext</string>
+	<key>reducerContainProxy</key>
+	<string>navigatorWithKind</string>
+	<key>tappableCubeVisibility</key>
+	<string>spriteFromComposite</string>
+	<key>temporaryBulletInset</key>
+	<string>actionAsCommand</string>
+</dict>
+</plist>

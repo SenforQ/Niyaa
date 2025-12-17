@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPlatformSaturation</key>
+	<string>resizableRectScale</string>
+	<key>cartesianCurveSkewy</key>
+	<string>customizedContainerFormat</string>
+	<key>dependencyParamLocation</key>
+	<string>taskAgainstOperation</string>
+	<key>explicitImageDelay</key>
+	<string>fusedStreamShade</string>
+	<key>notifierThroughOperation</key>
+	<string>opaqueMethodVelocity</string>
+</dict>
+</plist>

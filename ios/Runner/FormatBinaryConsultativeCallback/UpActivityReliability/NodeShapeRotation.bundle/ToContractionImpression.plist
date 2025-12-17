@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryLikeInterpreter</key>
+	<string>reactiveStreamInteraction</string>
+	<key>compositionalRouteTint</key>
+	<string>providerVariableEdge</string>
+	<key>desktopSubscriptionStyle</key>
+	<string>taskStyleState</string>
+	<key>handlerJobDistance</key>
+	<string>popupDecoratorEdge</string>
+	<key>navigatorVersusVariable</key>
+	<string>viewAwayStrategy</string>
+	<key>notificationFunctionInset</key>
+	<string>elasticCompositionCenter</string>
+	<key>radiusAroundFramework</key>
+	<string>retainedKernelStyle</string>
+	<key>specifierAndForm</key>
+	<string>flexAroundWork</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAdapterFormat</key>
+	<string>diffableBoxRotation</string>
+	<key>curveNearMemento</key>
+	<string>intensityAsAction</string>
+	<key>delegateSincePhase</key>
+	<string>overlayAroundEnvironment</string>
+	<key>euclideanSlashFlags</key>
+	<string>grayscaleVarOpacity</string>
+	<key>exponentUntilSystem</key>
+	<string>resultActionColor</string>
+	<key>grainAmongInterpreter</key>
+	<string>uniformCustompaintVisibility</string>
+	<key>observerDecoratorTheme</key>
+	<string>dynamicInstructionTension</string>
+	<key>routeAtInterpreter</key>
+	<string>awaitPerProxy</string>
+	<key>signBeyondBridge</key>
+	<string>lazyChannelInset</string>
+</dict>
+</plist>

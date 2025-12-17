@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureBridgeColor</key>
+	<string>sizeOfPattern</string>
+	<key>layoutChainDepth</key>
+	<string>sampleTaskDelay</string>
+	<key>localizationShapeInset</key>
+	<string>optionActivityShape</string>
+	<key>presenterNumberShape</key>
+	<string>borderContainNumber</string>
+	<key>providerAsTask</key>
+	<string>usecaseJobHue</string>
+	<key>sortedGraphLocation</key>
+	<string>utilAroundStructure</string>
+	<key>unactivatedLayerKind</key>
+	<string>radiusSinceProxy</string>
+	<key>variantOutsidePrototype</key>
+	<string>secondChartColor</string>
+</dict>
+</plist>

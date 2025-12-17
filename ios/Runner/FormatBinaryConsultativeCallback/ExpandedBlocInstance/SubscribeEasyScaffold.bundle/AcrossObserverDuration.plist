@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryInterpreterBrightness</key>
+	<string>modelAndFlyweight</string>
+	<key>materialInBridge</key>
+	<string>routePerVar</string>
+	<key>mediocreRichtextPosition</key>
+	<string>queryChainFrequency</string>
+	<key>permanentTransitionSaturation</key>
+	<string>tickerContextOffset</string>
+	<key>skirtMethodTint</key>
+	<string>exceptionOutsideCommand</string>
+	<key>stateParameterFeedback</key>
+	<string>crucialSwitchBrightness</string>
+	<key>uniqueToolPadding</key>
+	<string>tickerForType</string>
+</dict>
+</plist>

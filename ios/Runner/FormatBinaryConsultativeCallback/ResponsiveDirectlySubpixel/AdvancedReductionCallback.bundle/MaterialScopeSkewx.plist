@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBaseSaturation</key>
+	<string>oldSwitchStatus</string>
+	<key>buttonDespiteProxy</key>
+	<string>notificationChainBehavior</string>
+	<key>entropyUntilState</key>
+	<string>channelThroughJob</string>
+	<key>gesturedetectorPlatformDistance</key>
+	<string>typicalTickerSpacing</string>
+	<key>notifierContextCoord</key>
+	<string>sensorLevelInset</string>
+	<key>sizeTypeDensity</key>
+	<string>builderAmongPattern</string>
+</dict>
+</plist>

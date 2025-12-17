@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyStructureKind</key>
+	<string>segmentOutsideStructure</string>
+	<key>indicatorValueForce</key>
+	<string>arithmeticGrainTint</string>
+	<key>integerActivitySaturation</key>
+	<string>rectStateLeft</string>
+	<key>interactiveGrayscaleSkewx</key>
+	<string>swiftAroundContext</string>
+	<key>layoutCommandLeft</key>
+	<string>materialOperationCoord</string>
+	<key>prevRectOrientation</key>
+	<string>builderAroundBuffer</string>
+	<key>publicSegmentName</key>
+	<string>queueForKind</string>
+	<key>switchDecoratorShape</key>
+	<string>immediateGroupPadding</string>
+</dict>
+</plist>

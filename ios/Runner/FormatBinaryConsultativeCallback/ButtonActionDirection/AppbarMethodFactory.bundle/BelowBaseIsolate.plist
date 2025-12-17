@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarUntilMemento</key>
+	<string>navigatorPhaseContrast</string>
+	<key>assetBesideStrategy</key>
+	<string>collectionCommandDelay</string>
+	<key>exceptionSingletonInterval</key>
+	<string>navigationSingletonOrientation</string>
+	<key>grainShapeOffset</key>
+	<string>sinkDecoratorLocation</string>
+	<key>signAtChain</key>
+	<string>utilThroughTemple</string>
+</dict>
+</plist>

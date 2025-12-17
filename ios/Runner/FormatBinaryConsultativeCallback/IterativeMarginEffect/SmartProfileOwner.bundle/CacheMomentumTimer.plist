@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigatorSystemDirection</key>
+	<string>swiftDuringPhase</string>
+	<key>scrollableParticleInteraction</key>
+	<string>imperativeChapterAcceleration</string>
+	<key>titleActivityContrast</key>
+	<string>descriptorInEnvironment</string>
+	<key>utilFormFlags</key>
+	<string>reductionOperationDepth</string>
+</dict>
+</plist>

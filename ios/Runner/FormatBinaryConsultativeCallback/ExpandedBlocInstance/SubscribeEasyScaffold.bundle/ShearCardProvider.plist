@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMapFeedback</key>
+	<string>buttonLikeAdapter</string>
+	<key>entityThroughTask</key>
+	<string>interactorAgainstContext</string>
+	<key>localizationOrFlyweight</key>
+	<string>unsortedSliderTop</string>
+	<key>materialFactoryFormat</key>
+	<string>borderFromObserver</string>
+</dict>
+</plist>

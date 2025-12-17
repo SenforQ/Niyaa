@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRectState</key>
+	<string>widgetAroundState</string>
+	<key>callbackAwayFunction</key>
+	<string>notificationVarTag</string>
+	<key>channelByFacade</key>
+	<string>dropdownbuttonBesideVar</string>
+	<key>commandByFacade</key>
+	<string>consumerFormContrast</string>
+	<key>positionWorkTransparency</key>
+	<string>ternaryVariableTag</string>
+	<key>statelessTransitionFrequency</key>
+	<string>sessionProcessShape</string>
+</dict>
+</plist>

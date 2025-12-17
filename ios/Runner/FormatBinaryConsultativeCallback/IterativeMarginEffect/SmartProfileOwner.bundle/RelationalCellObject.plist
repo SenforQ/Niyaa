@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAmongOperation</key>
+	<string>mutableGridState</string>
+	<key>interpolationStyleSpacing</key>
+	<string>sizeShapeAppearance</string>
+	<key>observerFlyweightValidation</key>
+	<string>activeNotifierTop</string>
+	<key>particleAlongShape</key>
+	<string>curveStageTheme</string>
+	<key>radiusFormPressure</key>
+	<string>contractionDespiteMediator</string>
+	<key>specifyDurationDensity</key>
+	<string>directSessionOffset</string>
+</dict>
+</plist>

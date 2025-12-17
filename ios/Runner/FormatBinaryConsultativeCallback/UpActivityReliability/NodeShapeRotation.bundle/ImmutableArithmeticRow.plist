@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyMethodStyle</key>
+	<string>enabledNodeMode</string>
+	<key>grainBeyondParam</key>
+	<string>textViaFacade</string>
+	<key>mapViaLayer</key>
+	<string>statelessViaEnvironment</string>
+	<key>materialButtonTag</key>
+	<string>localizationLevelContrast</string>
+	<key>singleRouterSpacing</key>
+	<string>crudeStreamBrightness</string>
+	<key>textAndJob</key>
+	<string>viewVarDirection</string>
+	<key>variantFormKind</key>
+	<string>cubeIncludeActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaStructureBrightness</key>
+	<string>factoryInsideLevel</string>
+	<key>aspectratioContainVar</key>
+	<string>disabledConstraintPadding</string>
+	<key>characterCycleAppearance</key>
+	<string>notifierMementoAcceleration</string>
+	<key>prevLogFrequency</key>
+	<string>monsterMementoValidation</string>
+	<key>requiredServiceRotation</key>
+	<string>oldQueueRotation</string>
+</dict>
+</plist>

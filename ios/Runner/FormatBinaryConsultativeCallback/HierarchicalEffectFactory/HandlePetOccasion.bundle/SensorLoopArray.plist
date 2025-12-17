@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSessionColor</key>
+	<string>sessionFlyweightSpeed</string>
+	<key>hierarchicalEntityInset</key>
+	<string>navigationProcessInset</string>
+	<key>resolverFormSkewx</key>
+	<string>momentumPerStructure</string>
+	<key>subpixelTierTint</key>
+	<string>appbarEnvironmentDistance</string>
+	<key>subtleRouterDistance</key>
+	<string>enabledCubitVisible</string>
+	<key>taskKindResponse</key>
+	<string>missedStreamKind</string>
+</dict>
+</plist>

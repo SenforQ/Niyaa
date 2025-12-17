@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertLayerSkewx</key>
+	<string>graphBridgeFeedback</string>
+	<key>cubitFormSkewx</key>
+	<string>controllerParameterFeedback</string>
+	<key>eventAgainstNumber</key>
+	<string>resourceIncludeFlyweight</string>
+	<key>featureWithStage</key>
+	<string>transitionSingletonVisibility</string>
+	<key>rowPrototypeCount</key>
+	<string>roleAdapterIndex</string>
+	<key>streamDespiteEnvironment</key>
+	<string>beginnerMapDelay</string>
+</dict>
+</plist>

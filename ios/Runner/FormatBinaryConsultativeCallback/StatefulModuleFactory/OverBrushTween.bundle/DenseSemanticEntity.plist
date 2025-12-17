@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTangentOpacity</key>
+	<string>specifyInterpolationMode</string>
+	<key>boxTypeFrequency</key>
+	<string>overlayVersusBuffer</string>
+	<key>equalizationOrForm</key>
+	<string>widgetStructurePosition</string>
+	<key>explicitResourceSkewy</key>
+	<string>constCanvasResponse</string>
+	<key>iterativeStreamTransparency</key>
+	<string>kernelSincePlatform</string>
+	<key>newestBlocState</key>
+	<string>layerBufferSize</string>
+	<key>sharedEquipmentSpacing</key>
+	<string>taskVisitorPosition</string>
+</dict>
+</plist>

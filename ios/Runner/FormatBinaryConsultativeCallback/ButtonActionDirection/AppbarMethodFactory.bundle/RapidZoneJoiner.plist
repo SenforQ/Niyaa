@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedEffectForce</key>
+	<string>gradientPerTier</string>
+	<key>futureJobCoord</key>
+	<string>switchValueForce</string>
+	<key>mediaqueryPatternTop</key>
+	<string>assetVisitorSize</string>
+	<key>observerJobOrientation</key>
+	<string>desktopStackShade</string>
+	<key>oldCompositionOffset</key>
+	<string>euclideanBulletTheme</string>
+	<key>publicTextureRight</key>
+	<string>managerAwayChain</string>
+	<key>semanticsTypeRate</key>
+	<string>invisibleLocalizationPadding</string>
+</dict>
+</plist>

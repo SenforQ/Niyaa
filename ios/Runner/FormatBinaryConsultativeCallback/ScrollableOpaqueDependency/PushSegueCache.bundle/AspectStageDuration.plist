@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxShapeBehavior</key>
+	<string>transitionFlyweightOrigin</string>
+	<key>delegateActivityBehavior</key>
+	<string>concurrentRouterBehavior</string>
+	<key>enabledMomentumForce</key>
+	<string>sliderStylePadding</string>
+	<key>flexThanEnvironment</key>
+	<string>errorAlongStage</string>
+	<key>frameSinceLayer</key>
+	<string>spriteAsEnvironment</string>
+	<key>nodeThanMethod</key>
+	<string>usedMissionAlignment</string>
+	<key>particleStageMomentum</key>
+	<string>liteTickerPressure</string>
+	<key>presenterMementoDensity</key>
+	<string>chartDespiteOperation</string>
+	<key>timerNearDecorator</key>
+	<string>sophisticatedControllerInset</string>
+</dict>
+</plist>

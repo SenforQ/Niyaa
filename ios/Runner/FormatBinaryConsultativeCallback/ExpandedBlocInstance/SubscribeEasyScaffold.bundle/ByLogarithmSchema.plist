@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityVersusChain</key>
+	<string>baseFlyweightTop</string>
+	<key>behaviorAroundInterpreter</key>
+	<string>sliderOfShape</string>
+	<key>clipperContainStrategy</key>
+	<string>iterativeCompositionSize</string>
+	<key>collectionVersusFunction</key>
+	<string>disparatePopupIndex</string>
+	<key>paddingAndObserver</key>
+	<string>functionalFeatureRate</string>
+	<key>scaffoldFunctionDistance</key>
+	<string>layoutFromLevel</string>
+	<key>stampMementoRight</key>
+	<string>layerCommandForce</string>
+</dict>
+</plist>

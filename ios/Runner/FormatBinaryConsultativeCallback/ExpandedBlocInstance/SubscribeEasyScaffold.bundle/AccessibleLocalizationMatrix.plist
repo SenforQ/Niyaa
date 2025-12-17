@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectNearOperation</key>
+	<string>binaryThanVariable</string>
+	<key>persistentCursorShape</key>
+	<string>futureParameterShade</string>
+	<key>reactiveMobileType</key>
+	<string>binaryStructureBorder</string>
+	<key>standaloneBlocBehavior</key>
+	<string>tickerDuringChain</string>
+	<key>unsortedCheckboxTag</key>
+	<string>channelNearObserver</string>
+	<key>viewFlyweightDirection</key>
+	<string>resultFlyweightTransparency</string>
+</dict>
+</plist>

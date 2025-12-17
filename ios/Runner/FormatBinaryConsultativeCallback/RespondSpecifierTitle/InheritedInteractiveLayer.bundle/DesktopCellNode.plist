@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOfCycle</key>
+	<string>presenterVarStyle</string>
+	<key>coordinatorIncludeVar</key>
+	<string>subtleChartPadding</string>
+	<key>cosinePerVariable</key>
+	<string>nodeByPattern</string>
+	<key>declarativeLogAlignment</key>
+	<string>constSingletonFrequency</string>
+	<key>declarativeMapHead</key>
+	<string>usecaseBeyondOperation</string>
+	<key>finalModulusPosition</key>
+	<string>nodeInterpreterRight</string>
+	<key>gridInsideInterpreter</key>
+	<string>decorationBufferStatus</string>
+	<key>queueWorkMargin</key>
+	<string>callbackActivityShade</string>
+	<key>reactiveRepositoryAppearance</key>
+	<string>specifierActionCenter</string>
+	<key>specifierAtScope</key>
+	<string>marginInChain</string>
+</dict>
+</plist>

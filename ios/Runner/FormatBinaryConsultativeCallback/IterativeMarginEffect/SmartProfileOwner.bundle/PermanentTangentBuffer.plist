@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAboutProcess</key>
+	<string>nativeGridResponse</string>
+	<key>constraintEnvironmentTension</key>
+	<string>responseDuringObserver</string>
+	<key>nativeQueueBehavior</key>
+	<string>observerAgainstBuffer</string>
+	<key>providerOutsideSystem</key>
+	<string>accessoryDespiteBridge</string>
+	<key>rowVisitorStyle</key>
+	<string>seamlessNavigationTransparency</string>
+	<key>usedUsecaseOffset</key>
+	<string>exceptionFromFlyweight</string>
+	<key>utilInsideWork</key>
+	<string>repositoryOfParameter</string>
+	<key>widgetPhaseDepth</key>
+	<string>storeObserverPadding</string>
+</dict>
+</plist>

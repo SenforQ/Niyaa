@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopBehaviorSkewx</key>
+	<string>isolateTaskBottom</string>
+	<key>explicitWidgetMargin</key>
+	<string>layoutPatternPosition</string>
+	<key>intermediateInkwellSpeed</key>
+	<string>controllerViaPlatform</string>
+	<key>notifierCompositeBrightness</key>
+	<string>painterEnvironmentCenter</string>
+	<key>offsetInValue</key>
+	<string>bufferInSingleton</string>
+	<key>symmetricStateRotation</key>
+	<string>capacitiesInsideValue</string>
+	<key>tabviewWithoutShape</key>
+	<string>lostMediaqueryInteraction</string>
+	<key>webDurationAlignment</key>
+	<string>sliderFrameworkSize</string>
+</dict>
+</plist>

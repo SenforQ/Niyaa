@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStoreSkewx</key>
+	<string>finalTransitionSkewx</string>
+	<key>builderAroundCommand</key>
+	<string>nativeDecorationAcceleration</string>
+	<key>constFlexCenter</key>
+	<string>titleBridgeOffset</string>
+	<key>containerContainFunction</key>
+	<string>asyncSensorTransparency</string>
+	<key>dedicatedDependencyDistance</key>
+	<string>fusedCharacterDelay</string>
+	<key>drawerJobDepth</key>
+	<string>repositorySingletonTail</string>
+	<key>factoryFlyweightIndex</key>
+	<string>graphOperationSkewy</string>
+	<key>gateAtDecorator</key>
+	<string>timerVersusFramework</string>
+	<key>methodMethodTransparency</key>
+	<string>methodInterpreterTheme</string>
+	<key>oldMediaqueryDensity</key>
+	<string>lastRouteHue</string>
+</dict>
+</plist>

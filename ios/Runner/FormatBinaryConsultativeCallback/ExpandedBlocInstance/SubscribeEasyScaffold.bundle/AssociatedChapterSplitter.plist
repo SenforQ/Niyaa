@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledGestureBehavior</key>
+	<string>storyboardAboutFacade</string>
+	<key>gridAtComposite</key>
+	<string>enabledTextShade</string>
+	<key>layoutEnvironmentVisibility</key>
+	<string>alertVarKind</string>
+	<key>logPrototypeScale</key>
+	<string>dependencyInsideType</string>
+	<key>materialGrainSaturation</key>
+	<string>composableAnimationInterval</string>
+	<key>rectChainVelocity</key>
+	<string>associatedSampleMargin</string>
+	<key>scaleAlongType</key>
+	<string>exponentCommandShape</string>
+	<key>subpixelSystemInteraction</key>
+	<string>bulletDespiteValue</string>
+</dict>
+</plist>

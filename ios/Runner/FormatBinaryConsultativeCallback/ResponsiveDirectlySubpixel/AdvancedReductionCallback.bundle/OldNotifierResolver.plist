@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedFlexOrigin</key>
+	<string>exceptionAgainstParameter</string>
+	<key>indicatorScopeOrientation</key>
+	<string>screenScopeStyle</string>
+	<key>newestDimensionDelay</key>
+	<string>easyGraphDensity</string>
+	<key>presenterVisitorFeedback</key>
+	<string>adaptiveDelegateName</string>
+	<key>signAtShape</key>
+	<string>alignmentInterpreterTop</string>
+	<key>textfieldPerFlyweight</key>
+	<string>assetContextMargin</string>
+	<key>transformerViaSystem</key>
+	<string>deferredChannelAppearance</string>
+</dict>
+</plist>

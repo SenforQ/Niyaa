@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGemContrast</key>
+	<string>sessionBridgeDelay</string>
+	<key>beginnerProviderIndex</key>
+	<string>persistentGraphBrightness</string>
+	<key>cardFacadeDelay</key>
+	<string>finalControllerBehavior</string>
+	<key>cupertinoModulusValidation</key>
+	<string>declarativeToolTag</string>
+	<key>customizedResponseContrast</key>
+	<string>independentProfileCenter</string>
+	<key>enabledListenerScale</key>
+	<string>cubitVisitorOpacity</string>
+	<key>mapAboutKind</key>
+	<string>gestureOutsideStrategy</string>
+	<key>pointTypeInterval</key>
+	<string>histogramAndFramework</string>
+	<key>rapidNibFormat</key>
+	<string>sliderDecoratorFlags</string>
+</dict>
+</plist>

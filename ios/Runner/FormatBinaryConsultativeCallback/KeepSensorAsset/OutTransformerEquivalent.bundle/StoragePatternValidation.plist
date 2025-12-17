@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityLayerTransparency</key>
+	<string>chartDuringContext</string>
+	<key>ignoredChannelsAcceleration</key>
+	<string>interactiveQueueDistance</string>
+	<key>imagePrototypeSize</key>
+	<string>challengeOutsideFlyweight</string>
+	<key>nextSizedboxDelay</key>
+	<string>taskBeyondState</string>
+	<key>resilientCompleterRate</key>
+	<string>overlayInsideStage</string>
+</dict>
+</plist>

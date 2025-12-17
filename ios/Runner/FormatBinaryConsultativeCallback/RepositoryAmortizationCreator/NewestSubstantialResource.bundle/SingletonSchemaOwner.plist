@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVariableStatus</key>
+	<string>immediateSignRotation</string>
+	<key>callbackInterpreterSkewx</key>
+	<string>rectAtLayer</string>
+	<key>disabledListenerCoord</key>
+	<string>hardSemanticsCenter</string>
+	<key>similarLayerVisible</key>
+	<string>threadSingletonDirection</string>
+	<key>smartRectState</key>
+	<string>retainedUtilMode</string>
+	<key>vectorVersusCommand</key>
+	<string>sessionCycleSkewy</string>
+</dict>
+</plist>

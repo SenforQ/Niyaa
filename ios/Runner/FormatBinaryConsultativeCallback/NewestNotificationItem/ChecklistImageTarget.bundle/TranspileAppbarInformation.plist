@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnPrototypeSaturation</key>
+	<string>originalAnimationResponse</string>
+	<key>entityModeLocation</key>
+	<string>accessiblePreviewHue</string>
+	<key>inkwellByFramework</key>
+	<string>navigatorLikeFramework</string>
+	<key>operationNearBuffer</key>
+	<string>mediaqueryStyleMode</string>
+	<key>statefulButtonHue</key>
+	<string>cartesianKernelDirection</string>
+	<key>transitionAsStructure</key>
+	<string>observerPatternMode</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAgainstChain</key>
+	<string>kernelAtPhase</string>
+	<key>concurrentPositionedAppearance</key>
+	<string>resultVarOpacity</string>
+	<key>currentActionTransparency</key>
+	<string>unsortedDependencyVisible</string>
+	<key>interactorAdapterShape</key>
+	<string>mutableBulletInterval</string>
+	<key>presenterModeShade</key>
+	<string>smartGridPressure</string>
+	<key>providerLayerShape</key>
+	<string>serviceAwayInterpreter</string>
+	<key>staticDimensionFrequency</key>
+	<string>callbackDuringMethod</string>
+	<key>titleActivityKind</key>
+	<string>layoutPlatformPadding</string>
+	<key>uniqueDependencyCoord</key>
+	<string>methodContainSystem</string>
+</dict>
+</plist>

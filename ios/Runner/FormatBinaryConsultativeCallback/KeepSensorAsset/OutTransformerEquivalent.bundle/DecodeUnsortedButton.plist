@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertFromBridge</key>
+	<string>dedicatedConfigurationIndex</string>
+	<key>asyncValueDirection</key>
+	<string>pageviewLayerAppearance</string>
+	<key>commonRoleSkewx</key>
+	<string>firstDurationIndex</string>
+	<key>controllerVersusVisitor</key>
+	<string>originalStatelessVisibility</string>
+	<key>fragmentModeType</key>
+	<string>animationVariableCenter</string>
+	<key>memberOrCycle</key>
+	<string>listviewAndPattern</string>
+	<key>oldPainterContrast</key>
+	<string>statelessMediatorAppearance</string>
+	<key>sequentialAlertContrast</key>
+	<string>curveBeyondAdapter</string>
+	<key>stateEnvironmentDelay</key>
+	<string>sessionNearCommand</string>
+	<key>tickerPlatformStyle</key>
+	<string>rectChainOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableAssetContrast</key>
+	<string>completionLevelType</string>
+	<key>customSkinInteraction</key>
+	<string>mediaqueryMediatorDirection</string>
+	<key>customizedPopupDensity</key>
+	<string>stepWithAction</string>
+	<key>delicateGramSkewy</key>
+	<string>cardModeFlags</string>
+	<key>immutableNotificationState</key>
+	<string>gateMethodVisible</string>
+	<key>radiusWithoutJob</key>
+	<string>navigatorBesideMode</string>
+	<key>resilientCursorSpacing</key>
+	<string>webBufferBorder</string>
+	<key>resultContainMethod</key>
+	<string>listenerCompositeState</string>
+	<key>scrollableAllocatorCenter</key>
+	<string>animationWithoutSingleton</string>
+	<key>titleLayerSpacing</key>
+	<string>convolutionMethodPadding</string>
+</dict>
+</plist>

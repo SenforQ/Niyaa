@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRowForce</key>
+	<string>normPlatformAlignment</string>
+	<key>appbarAtFlyweight</key>
+	<string>relationalCubitOpacity</string>
+	<key>instructionContextFormat</key>
+	<string>errorCompositeInset</string>
+	<key>litePageviewStatus</key>
+	<string>serviceParameterKind</string>
+	<key>webCosineOrigin</key>
+	<string>normalProgressbarFormat</string>
+</dict>
+</plist>

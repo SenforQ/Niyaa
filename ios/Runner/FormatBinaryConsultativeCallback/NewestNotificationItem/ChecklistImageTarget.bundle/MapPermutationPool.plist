@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCycleForce</key>
+	<string>tabviewForTemple</string>
+	<key>handlerProcessFlags</key>
+	<string>layoutSystemStyle</string>
+	<key>intensityOfActivity</key>
+	<string>immediateSpecifierSaturation</string>
+	<key>lazyInterpolationOrientation</key>
+	<string>basicControllerResponse</string>
+	<key>subpixelFromAction</key>
+	<string>drawerContainMemento</string>
+</dict>
+</plist>

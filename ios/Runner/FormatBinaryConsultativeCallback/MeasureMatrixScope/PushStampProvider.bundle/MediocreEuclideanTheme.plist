@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateDuringInterpreter</key>
+	<string>alignmentDespiteComposite</string>
+	<key>decorationStrategyDepth</key>
+	<string>effectNumberCount</string>
+	<key>desktopTextSkewy</key>
+	<string>equipmentWithAdapter</string>
+	<key>logActionOrientation</key>
+	<string>adaptivePainterCenter</string>
+	<key>modulusLevelFormat</key>
+	<string>stepAboutLevel</string>
+	<key>parallelMapHead</key>
+	<string>dynamicBehaviorTint</string>
+	<key>resourceInFramework</key>
+	<string>tabviewParameterMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSceneTransparency</key>
+	<string>iterativeBlocRotation</string>
+	<key>apertureTierLocation</key>
+	<string>decorationStrategyOrientation</string>
+	<key>deferredChannelPadding</key>
+	<string>interpolationLevelCoord</string>
+	<key>heapNumberMode</key>
+	<string>interactorModeDensity</string>
+	<key>observerShapeCount</key>
+	<string>actionKindShade</string>
+	<key>routerSystemFeedback</key>
+	<string>commonPromiseTransparency</string>
+	<key>scaleAgainstSystem</key>
+	<string>swiftUntilTask</string>
+</dict>
+</plist>

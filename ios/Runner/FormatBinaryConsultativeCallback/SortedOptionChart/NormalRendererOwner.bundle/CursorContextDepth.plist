@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorForObserver</key>
+	<string>handlerSystemBrightness</string>
+	<key>resizableReferenceShape</key>
+	<string>cupertinoHashResponse</string>
+	<key>toolStructureSpacing</key>
+	<string>apertureSystemHead</string>
+</dict>
+</plist>

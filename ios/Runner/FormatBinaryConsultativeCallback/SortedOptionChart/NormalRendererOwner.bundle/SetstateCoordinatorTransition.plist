@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMapStatus</key>
+	<string>interactorVisitorTag</string>
+	<key>asyncInterfaceMode</key>
+	<string>webBehaviorStatus</string>
+	<key>descriptionValueOpacity</key>
+	<string>interfaceCommandOpacity</string>
+	<key>directMatrixOrientation</key>
+	<string>controllerVersusLayer</string>
+	<key>tabviewWithPhase</key>
+	<string>semanticUsecaseLocation</string>
+</dict>
+</plist>

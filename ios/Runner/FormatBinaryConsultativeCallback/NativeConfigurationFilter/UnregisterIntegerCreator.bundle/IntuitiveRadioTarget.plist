@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncObserverOpacity</key>
+	<string>monsterAboutObserver</string>
+	<key>backwardGemVisibility</key>
+	<string>chapterScopeVelocity</string>
+	<key>coordinatorThroughMemento</key>
+	<string>activeProgressbarShade</string>
+	<key>missionChainTheme</key>
+	<string>accordionCurveDuration</string>
+	<key>routerScopeBrightness</key>
+	<string>protectedCoordinatorHue</string>
+	<key>usageFormBorder</key>
+	<string>resolverBeyondTemple</string>
+</dict>
+</plist>

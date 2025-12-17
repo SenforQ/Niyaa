@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerPlatformShade</key>
+	<string>columnFlyweightOrientation</string>
+	<key>permanentCompleterDepth</key>
+	<string>unsortedTouchContrast</string>
+	<key>statefulNormSkewy</key>
+	<string>resolverWithoutStage</string>
+	<key>titleUntilContext</key>
+	<string>adaptiveEventSkewx</string>
+	<key>unaryPatternInterval</key>
+	<string>accessoryKindSize</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResultVisible</key>
+	<string>statelessStageDirection</string>
+	<key>alphaEnvironmentOffset</key>
+	<string>transformerVarBrightness</string>
+	<key>deferredSpriteVelocity</key>
+	<string>constraintParameterEdge</string>
+	<key>delegateFromObserver</key>
+	<string>sceneVariableFormat</string>
+	<key>iconTaskDepth</key>
+	<string>builderNearTask</string>
+	<key>logarithmMethodBehavior</key>
+	<string>subscriptionObserverVisibility</string>
+	<key>utilThanPattern</key>
+	<string>custompaintKindIndex</string>
+</dict>
+</plist>

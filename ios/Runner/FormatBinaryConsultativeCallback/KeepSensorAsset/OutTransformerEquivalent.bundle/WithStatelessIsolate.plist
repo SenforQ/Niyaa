@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchBridgeTheme</key>
+	<string>directlyQueueDistance</string>
+	<key>menuFormPressure</key>
+	<string>discardedTimerMargin</string>
+	<key>pinchableChannelsShade</key>
+	<string>themeUntilLayer</string>
+	<key>remainderAndBridge</key>
+	<string>queueObserverStyle</string>
+	<key>shaderDuringLevel</key>
+	<string>methodBufferPressure</string>
+	<key>streamNearVisitor</key>
+	<string>sensorOrDecorator</string>
+</dict>
+</plist>

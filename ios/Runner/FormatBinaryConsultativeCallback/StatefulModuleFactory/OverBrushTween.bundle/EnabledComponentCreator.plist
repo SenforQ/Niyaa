@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheLevelType</key>
+	<string>listenerIncludeType</string>
+	<key>displayableActionDuration</key>
+	<string>titleFormCenter</string>
+	<key>firstPositionedSpeed</key>
+	<string>tweenAlongStrategy</string>
+	<key>fixedStampVelocity</key>
+	<string>interactivePrecisionInteraction</string>
+	<key>movementTierValidation</key>
+	<string>riverpodTierSkewx</string>
+	<key>resilientMapBorder</key>
+	<string>paddingActivityCount</string>
+	<key>responseBesideStyle</key>
+	<string>curveActivityTail</string>
+	<key>zoneAndBuffer</key>
+	<string>allocatorAsMode</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSymbolShade</key>
+	<string>reusableObserverHead</string>
+	<key>ignoredEffectLeft</key>
+	<string>constraintOperationInset</string>
+	<key>respectiveCapacitiesOrientation</key>
+	<string>layoutWithPrototype</string>
+	<key>secondViewPadding</key>
+	<string>sliderMethodFormat</string>
+	<key>uniqueSinkFormat</key>
+	<string>awaitIncludeActivity</string>
+</dict>
+</plist>

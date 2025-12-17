@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSegueScale</key>
+	<string>equalizationKindColor</string>
+	<key>completionScopeForce</key>
+	<string>decorationContainComposite</string>
+	<key>imperativeDelegateTransparency</key>
+	<string>allocatorFrameworkBottom</string>
+	<key>intensityThanLevel</key>
+	<string>alphaThanShape</string>
+	<key>localTickerTheme</key>
+	<string>pinchableTweenTheme</string>
+	<key>managerFrameworkCount</key>
+	<string>commonTickerContrast</string>
+	<key>tappableChartOpacity</key>
+	<string>boxshadowFlyweightValidation</string>
+	<key>temporaryTransitionFeedback</key>
+	<string>intuitiveCurveDepth</string>
+	<key>timerVarMargin</key>
+	<string>globalNodeMargin</string>
+</dict>
+</plist>

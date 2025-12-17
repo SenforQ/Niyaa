@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentViewLocation</key>
+	<string>transitionInsideBuffer</string>
+	<key>contractionCycleDuration</key>
+	<string>uniqueCallbackLeft</string>
+	<key>descriptorIncludeAction</key>
+	<string>euclideanStateBehavior</string>
+	<key>enabledDependencyAlignment</key>
+	<string>baselineBeyondValue</string>
+	<key>interactorChainScale</key>
+	<string>eventShapeFormat</string>
+	<key>routeActionCoord</key>
+	<string>equipmentShapeRight</string>
+	<key>rowCycleOffset</key>
+	<string>pointVisitorState</string>
+	<key>widgetInParameter</key>
+	<string>newestOverlaySize</string>
+</dict>
+</plist>

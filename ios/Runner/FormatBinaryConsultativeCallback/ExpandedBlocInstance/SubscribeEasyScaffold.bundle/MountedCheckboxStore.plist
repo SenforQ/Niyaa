@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectThroughPrototype</key>
+	<string>methodAboutChain</string>
+	<key>eventFacadeBottom</key>
+	<string>rowMediatorIndex</string>
+	<key>invisibleAlignmentFlags</key>
+	<string>tableLikeType</string>
+	<key>missedTickerInset</key>
+	<string>textfieldFunctionContrast</string>
+	<key>mobxProcessDepth</key>
+	<string>hashForVariable</string>
+	<key>otherThemeSaturation</key>
+	<string>cellSinceScope</string>
+	<key>playbackOutsideType</key>
+	<string>cycleOutsideProcess</string>
+	<key>reducerFlyweightSize</key>
+	<string>responseAroundDecorator</string>
+	<key>staticAlignmentInteraction</key>
+	<string>sharedWidgetDirection</string>
+	<key>textfieldFormDirection</key>
+	<string>scaffoldStrategyMargin</string>
+</dict>
+</plist>

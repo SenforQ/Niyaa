@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryValueOffset</key>
+	<string>rowExceptScope</string>
+	<key>backwardCapsuleShape</key>
+	<string>workflowStructureScale</string>
+	<key>callbackViaAction</key>
+	<string>frameDuringState</string>
+	<key>constraintMediatorMode</key>
+	<string>decorationSinceFlyweight</string>
+	<key>containerDuringWork</key>
+	<string>navigationSingletonDuration</string>
+	<key>exponentFlyweightVisibility</key>
+	<string>controllerVersusTemple</string>
+	<key>popupFrameworkFlags</key>
+	<string>layerVariableFlags</string>
+	<key>tabbarBeyondProcess</key>
+	<string>entityNearActivity</string>
+</dict>
+</plist>

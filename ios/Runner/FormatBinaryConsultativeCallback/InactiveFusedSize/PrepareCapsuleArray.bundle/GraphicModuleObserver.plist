@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureMethodOpacity</key>
+	<string>overlayMementoCenter</string>
+	<key>momentumIncludeCommand</key>
+	<string>statefulSinceNumber</string>
+	<key>spriteStrategyStyle</key>
+	<string>switchVersusKind</string>
+	<key>tabbarStageTheme</key>
+	<string>temporaryScaffoldInteraction</string>
+	<key>transitionAtTier</key>
+	<string>resourceAdapterName</string>
+</dict>
+</plist>

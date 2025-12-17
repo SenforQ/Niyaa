@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGridOffset</key>
+	<string>transitionAmongComposite</string>
+	<key>asyncForTask</key>
+	<string>constraintFrameworkDelay</string>
+	<key>autoDecorationPadding</key>
+	<string>reusableTaskVelocity</string>
+	<key>delegateByProcess</key>
+	<string>characterVariableRight</string>
+	<key>immediateManagerCount</key>
+	<string>nextAllocatorBottom</string>
+	<key>injectionNumberVisible</key>
+	<string>symmetricLossRight</string>
+	<key>spriteThanComposite</key>
+	<string>composableProfileVisible</string>
+	<key>textfieldExceptStage</key>
+	<string>featureMementoFeedback</string>
+</dict>
+</plist>

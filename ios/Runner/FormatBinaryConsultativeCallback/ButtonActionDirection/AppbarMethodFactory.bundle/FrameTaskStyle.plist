@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBeyondDecorator</key>
+	<string>channelsModeOpacity</string>
+	<key>builderCompositeCenter</key>
+	<string>assetProxyPadding</string>
+	<key>liteSwitchSkewx</key>
+	<string>streamJobSpacing</string>
+	<key>nodeStateKind</key>
+	<string>grainSinceStyle</string>
+	<key>otherSensorDelay</key>
+	<string>radiusAlongObserver</string>
+	<key>queueShapeMargin</key>
+	<string>movementByCommand</string>
+	<key>usedResourceInteraction</key>
+	<string>navigatorInsideMediator</string>
+</dict>
+</plist>

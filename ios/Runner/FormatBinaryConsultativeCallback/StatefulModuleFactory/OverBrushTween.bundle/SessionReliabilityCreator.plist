@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicGateInterval</key>
+	<string>listviewInObserver</string>
+	<key>functionalInterpolationInteraction</key>
+	<string>tweenOutsidePlatform</string>
+	<key>futureWithForm</key>
+	<string>playbackFromEnvironment</string>
+	<key>promiseNearProxy</key>
+	<string>navigationWithFramework</string>
+	<key>statelessAllocatorCount</key>
+	<string>concreteDecorationOrigin</string>
+	<key>utilStrategySaturation</key>
+	<string>prismaticDialogsBorder</string>
+</dict>
+</plist>

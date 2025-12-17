@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerActivityLocation</key>
+	<string>richtextWithProcess</string>
+	<key>containerBridgeHead</key>
+	<string>vectorBridgeStatus</string>
+	<key>containerOutsideVisitor</key>
+	<string>listviewBufferPressure</string>
+	<key>delicateAnimationHead</key>
+	<string>errorVarShade</string>
+	<key>positionStyleStatus</key>
+	<string>clipperContextInset</string>
+	<key>prismaticRepositorySkewy</key>
+	<string>resilientConstraintCount</string>
+	<key>rowModeBound</key>
+	<string>taskModeAppearance</string>
+	<key>streamOperationSaturation</key>
+	<string>popupBridgeRotation</string>
+	<key>unactivatedSubscriptionColor</key>
+	<string>dedicatedAccessoryEdge</string>
+</dict>
+</plist>

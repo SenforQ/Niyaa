@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushIncludeStrategy</key>
+	<string>asynchronousOverlayTint</string>
+	<key>constraintLevelSaturation</key>
+	<string>blocModeTransparency</string>
+	<key>eagerResponseBottom</key>
+	<string>normalSymbolType</string>
+	<key>intermediateAsyncRate</key>
+	<string>assetTypeTheme</string>
+	<key>intuitiveDecorationDepth</key>
+	<string>otherLayoutTension</string>
+	<key>layoutFacadeTheme</key>
+	<string>transitionObserverAppearance</string>
+	<key>presenterWorkDirection</key>
+	<string>exceptionShapeDelay</string>
+	<key>resolverDuringStrategy</key>
+	<string>gateWorkBrightness</string>
+	<key>streamStrategySaturation</key>
+	<string>segueAdapterRotation</string>
+	<key>threadValueHead</key>
+	<string>flexPhaseForce</string>
+</dict>
+</plist>

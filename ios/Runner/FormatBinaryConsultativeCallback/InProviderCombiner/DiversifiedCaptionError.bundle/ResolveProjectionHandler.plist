@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectInInterpreter</key>
+	<string>baseCommandDelay</string>
+	<key>captionFormKind</key>
+	<string>storageActionInset</string>
+	<key>handlerOrAction</key>
+	<string>symmetricExceptionVisible</string>
+	<key>immediateBoxRotation</key>
+	<string>transitionNearVariable</string>
+	<key>queueWithMode</key>
+	<string>reusableMovementBorder</string>
+	<key>topicContainContext</key>
+	<string>mutableResultKind</string>
+</dict>
+</plist>

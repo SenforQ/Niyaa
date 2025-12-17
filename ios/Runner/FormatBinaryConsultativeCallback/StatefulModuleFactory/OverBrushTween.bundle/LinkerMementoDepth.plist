@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAtFunction</key>
+	<string>difficultBufferTop</string>
+	<key>delegateInsidePlatform</key>
+	<string>constraintFormDuration</string>
+	<key>ignoredMaterialBound</key>
+	<string>composableThreadRight</string>
+	<key>inkwellVarSpeed</key>
+	<string>allocatorWorkSpeed</string>
+	<key>priorRouterLocation</key>
+	<string>permanentPageviewKind</string>
+	<key>reactiveUsageBrightness</key>
+	<string>navigationStrategyDelay</string>
+	<key>tabviewModeColor</key>
+	<string>assetStageTint</string>
+</dict>
+</plist>

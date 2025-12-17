@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorCycleSkewy</key>
+	<string>adaptiveSessionAlignment</string>
+	<key>chartFromVar</key>
+	<string>discardedGrainInterval</string>
+	<key>columnDuringComposite</key>
+	<string>originalMediaDirection</string>
+	<key>rectWithFramework</key>
+	<string>captionAndAction</string>
+	<key>secondServiceKind</key>
+	<string>tickerFlyweightMode</string>
+	<key>visibleEventLeft</key>
+	<string>imperativeMethodMode</string>
+</dict>
+</plist>

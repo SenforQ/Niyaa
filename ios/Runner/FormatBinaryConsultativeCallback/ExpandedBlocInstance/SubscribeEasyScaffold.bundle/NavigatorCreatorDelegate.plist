@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCurveMode</key>
+	<string>displayableRoleDensity</string>
+	<key>asynchronousAppbarRight</key>
+	<string>compositionalGridContrast</string>
+	<key>cartesianThemeVisibility</key>
+	<string>tabbarAboutTemple</string>
+	<key>positionLayerKind</key>
+	<string>promiseTierSize</string>
+	<key>smartDrawerBrightness</key>
+	<string>respectiveLoopKind</string>
+</dict>
+</plist>

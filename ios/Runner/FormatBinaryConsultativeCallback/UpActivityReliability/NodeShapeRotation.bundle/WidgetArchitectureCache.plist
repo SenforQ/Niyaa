@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionStrategyRight</key>
+	<string>spriteSingletonTag</string>
+	<key>delegateCycleName</key>
+	<string>animatedConstraintLocation</string>
+	<key>entityInterpreterTransparency</key>
+	<string>lostBuilderTheme</string>
+	<key>globalPreviewBehavior</key>
+	<string>hyperbolicListenerRate</string>
+	<key>mediumChannelsCount</key>
+	<string>curveActionCount</string>
+	<key>roleDuringObserver</key>
+	<string>responseFromJob</string>
+	<key>significantAnchorMomentum</key>
+	<string>repositoryUntilChain</string>
+</dict>
+</plist>

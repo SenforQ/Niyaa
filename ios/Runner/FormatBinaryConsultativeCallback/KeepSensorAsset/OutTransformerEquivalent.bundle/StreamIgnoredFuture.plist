@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoResolverFormat</key>
+	<string>interactiveTopicLocation</string>
+	<key>cardVariableMode</key>
+	<string>lazyAsyncTheme</string>
+	<key>containerParameterInteraction</key>
+	<string>futureStateState</string>
+	<key>discardedZoneFlags</key>
+	<string>blocModeSkewx</string>
+	<key>graphicWithoutAdapter</key>
+	<string>assetAboutObserver</string>
+	<key>labelAlongAction</key>
+	<string>commonGridDepth</string>
+	<key>labelAroundObserver</key>
+	<string>pinchableVectorStatus</string>
+	<key>matrixForJob</key>
+	<string>responsiveRowRate</string>
+	<key>sceneAroundValue</key>
+	<string>resultActionEdge</string>
+	<key>symbolLikeJob</key>
+	<string>navigatorIncludeBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryStrategyInteraction</key>
+	<string>sineWithTask</string>
+	<key>cartesianPositionOffset</key>
+	<string>particleMediatorTheme</string>
+	<key>decorationWorkBehavior</key>
+	<string>advancedMapCoord</string>
+	<key>dialogsAsKind</key>
+	<string>workflowStyleSkewx</string>
+	<key>mediocreCallbackTransparency</key>
+	<string>effectTypeBottom</string>
+	<key>multiConsumerBottom</key>
+	<string>responsiveMethodTension</string>
+	<key>progressbarOfFlyweight</key>
+	<string>cubitAsValue</string>
+	<key>spotIncludeMemento</key>
+	<string>missedBlocOpacity</string>
+	<key>synchronousMasterStatus</key>
+	<string>webStoryboardSkewx</string>
+</dict>
+</plist>

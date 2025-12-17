@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAdapterTransparency</key>
+	<string>awaitAboutComposite</string>
+	<key>entityStructureBrightness</key>
+	<string>eagerDependencyShade</string>
+	<key>entropyLevelBound</key>
+	<string>cosineStateBrightness</string>
+	<key>flexLikeCycle</key>
+	<string>diffableStreamResponse</string>
+	<key>previewViaVariable</key>
+	<string>promiseAtEnvironment</string>
+	<key>resolverAmongOperation</key>
+	<string>delicateBaselineVisible</string>
+	<key>skinMethodEdge</key>
+	<string>listenerFromAdapter</string>
+	<key>symbolOrActivity</key>
+	<string>heapMementoDensity</string>
+	<key>widgetLayerTail</key>
+	<string>elasticIntensityPadding</string>
+</dict>
+</plist>

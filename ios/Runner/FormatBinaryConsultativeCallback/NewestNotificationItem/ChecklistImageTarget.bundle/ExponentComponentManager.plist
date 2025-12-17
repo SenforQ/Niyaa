@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioOutsideVariable</key>
+	<string>tableContainParam</string>
+	<key>heapContainAdapter</key>
+	<string>offsetPerProxy</string>
+	<key>inheritedWorkflowLocation</key>
+	<string>buttonContextBound</string>
+	<key>particleByTier</key>
+	<string>persistentLoopAppearance</string>
+</dict>
+</plist>

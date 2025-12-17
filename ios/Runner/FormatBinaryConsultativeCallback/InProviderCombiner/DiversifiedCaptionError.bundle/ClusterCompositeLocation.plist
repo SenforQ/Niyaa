@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartKindContrast</key>
+	<string>requestThroughObserver</string>
+	<key>decorationOrStrategy</key>
+	<string>independentTextHue</string>
+	<key>disabledCompleterTransparency</key>
+	<string>stackInsideStage</string>
+	<key>frameShapeCoord</key>
+	<string>popupParameterOffset</string>
+	<key>interactorAmongFlyweight</key>
+	<string>dependencyContextShape</string>
+	<key>labelAtTemple</key>
+	<string>resourceContextBrightness</string>
+	<key>monsterNumberValidation</key>
+	<string>resultAgainstBridge</string>
+	<key>touchInsideObserver</key>
+	<string>semanticStorageDelay</string>
+</dict>
+</plist>

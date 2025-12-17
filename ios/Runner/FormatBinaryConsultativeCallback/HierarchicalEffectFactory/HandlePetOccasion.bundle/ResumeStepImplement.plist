@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorFromLevel</key>
+	<string>requiredStateFeedback</string>
+	<key>asyncEnvironmentCoord</key>
+	<string>borderWithoutKind</string>
+	<key>asynchronousAwaitScale</key>
+	<string>scaffoldMediatorBehavior</string>
+	<key>enabledActionLocation</key>
+	<string>scaffoldCommandState</string>
+	<key>entityBufferDelay</key>
+	<string>asyncIncludeState</string>
+	<key>fusedAssetShape</key>
+	<string>delegateInChain</string>
+	<key>painterSingletonAcceleration</key>
+	<string>tabviewAndFlyweight</string>
+	<key>routerWithoutVisitor</key>
+	<string>particleExceptActivity</string>
+</dict>
+</plist>

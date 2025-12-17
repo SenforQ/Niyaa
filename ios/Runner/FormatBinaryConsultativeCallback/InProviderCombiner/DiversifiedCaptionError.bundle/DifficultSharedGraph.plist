@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateContextInteraction</key>
+	<string>signPerPattern</string>
+	<key>containerPhaseCenter</key>
+	<string>offsetObserverFormat</string>
+	<key>painterThroughJob</key>
+	<string>spriteEnvironmentTint</string>
+	<key>scrollableStreamFrequency</key>
+	<string>navigatorSystemTransparency</string>
+</dict>
+</plist>

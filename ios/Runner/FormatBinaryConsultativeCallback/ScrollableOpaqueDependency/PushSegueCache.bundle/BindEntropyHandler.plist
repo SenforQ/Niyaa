@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPopupColor</key>
+	<string>scrollableEffectSkewx</string>
+	<key>cubitEnvironmentResponse</key>
+	<string>accessibleTaskTop</string>
+	<key>difficultLayoutSpacing</key>
+	<string>descriptionFormTop</string>
+	<key>imperativeModalCount</key>
+	<string>sliderAroundBridge</string>
+	<key>listenerAsFacade</key>
+	<string>timerAsAction</string>
+	<key>transitionNearKind</key>
+	<string>radiusExceptSingleton</string>
+	<key>uniformAwaitFrequency</key>
+	<string>precisionPatternMargin</string>
+</dict>
+</plist>

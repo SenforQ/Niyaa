@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB6e-GWRaxL0ZERvXppOcGeI9_kw0GPmRU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>430773681708</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BR36FT5GVJ</string>
+	<key>PROJECT_ID</key>
+	<string>aimaa-ios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aimaa-ios.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:430773681708:ios:0b0db2ddb5858fd18a1b89</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleIncludeParam</key>
+	<string>basicAlertVelocity</string>
+	<key>graphStateCoord</key>
+	<string>gridNumberLocation</string>
+	<key>invisibleQueuePressure</key>
+	<string>backwardLocalizationPadding</string>
+	<key>modalFromStyle</key>
+	<string>unactivatedPageviewInteraction</string>
+	<key>scaleIncludeDecorator</key>
+	<string>unsortedConstraintFeedback</string>
+</dict>
+</plist>

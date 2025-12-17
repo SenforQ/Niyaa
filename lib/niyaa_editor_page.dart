@@ -4,6 +4,8 @@ import 'package:flutter/services.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:path/path.dart' as path;
+import 'services/vip_service.dart';
+import 'vip_sub_page.dart';
 
 class NiyaaEditorPage extends StatefulWidget {
   final String? initialAvatarPath;
@@ -85,6 +87,18 @@ class _NiyaaEditorPageState extends State<NiyaaEditorPage> {
   }
 
   Future<void> _handleSave() async {
+    // Check VIP status
+    final isVipActive = await VipService.isVipActive();
+    final isVipExpired = await VipService.isVipExpired();
+    final hasVip = isVipActive && !isVipExpired;
+
+    if (!hasVip) {
+      if (mounted) {
+        _showVipRequiredDialog();
+      }
+      return;
+    }
+
     final nickname = _nicknameController.text.trim();
     final signature = _signatureController.text.trim();
 
@@ -93,6 +107,68 @@ class _NiyaaEditorPageState extends State<NiyaaEditorPage> {
     if (mounted) {
       Navigator.of(context).pop();
     }
+  }
+
+  void _showVipRequiredDialog() {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: Colors.white,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+        title: const Text(
+          'VIP Required',
+          style: TextStyle(
+            fontSize: 20,
+            fontWeight: FontWeight.bold,
+            color: Colors.black87,
+          ),
+        ),
+        content: const Text(
+          'You need VIP membership to edit your information. Please subscribe to VIP first.',
+          style: TextStyle(
+            fontSize: 16,
+            color: Colors.black87,
+          ),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(),
+            child: const Text(
+              'Cancel',
+              style: TextStyle(
+                color: Colors.black54,
+                fontSize: 16,
+              ),
+            ),
+          ),
+          ElevatedButton(
+            onPressed: () {
+              Navigator.of(context).pop();
+              Navigator.of(context).push(
+                MaterialPageRoute(
+                  builder: (_) => const VipSubPage(),
+                ),
+              );
+            },
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color(0xFFFFDC05),
+              foregroundColor: Colors.black87,
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(20),
+              ),
+              padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+            ),
+            child: const Text(
+              'Subscribe',
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+                fontSize: 16,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
   }
 
   @override

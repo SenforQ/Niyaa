@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalReducerVisible</key>
+	<string>painterProcessStatus</string>
+	<key>delegateThroughForm</key>
+	<string>sceneInsideParameter</string>
+	<key>directAllocatorBorder</key>
+	<string>semanticProviderValidation</string>
+	<key>factoryTaskSpacing</key>
+	<string>dependencySystemFlags</string>
+	<key>resizableProviderColor</key>
+	<string>injectionAndVar</string>
+	<key>scrollableModulusIndex</key>
+	<string>offsetByParameter</string>
+	<key>smartAsyncDuration</key>
+	<string>persistentPlateBehavior</string>
+	<key>sustainableAxisInteraction</key>
+	<string>immutableSpecifierColor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystPlatformFeedback</key>
+	<string>signPerJob</string>
+	<key>cubitAndPlatform</key>
+	<string>transformerVisitorVisible</string>
+	<key>eventActionValidation</key>
+	<string>backwardTransitionContrast</string>
+	<key>keyBoxshadowSpacing</key>
+	<string>managerViaStyle</string>
+	<key>localizationJobFeedback</key>
+	<string>clipperAtVariable</string>
+	<key>mainRouteBehavior</key>
+	<string>prismaticEntropyResponse</string>
+	<key>notifierKindVisible</key>
+	<string>grayscalePlatformEdge</string>
+	<key>storeJobDelay</key>
+	<string>builderNearSingleton</string>
+	<key>uniformPointCount</key>
+	<string>navigatorProcessTheme</string>
+</dict>
+</plist>

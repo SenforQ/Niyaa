@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerScopeForce</key>
+	<string>mobxInterpreterValidation</string>
+	<key>deferredUtilRight</key>
+	<string>popupByTier</string>
+	<key>disabledInkwellMode</key>
+	<string>boxPerActivity</string>
+	<key>intuitiveAlignmentMode</key>
+	<string>pinchablePositionCenter</string>
+	<key>profilePhaseFormat</key>
+	<string>oldSlashTransparency</string>
+	<key>semanticListviewContrast</key>
+	<string>oldExtensionLeft</string>
+	<key>sliderBridgeSpacing</key>
+	<string>lostFactoryDensity</string>
+	<key>tensorUtilOrientation</key>
+	<string>rectStateStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedZoneTransparency</key>
+	<string>sliderAtMemento</string>
+	<key>blocAsForm</key>
+	<string>resourceTierPressure</string>
+	<key>coordinatorAgainstCycle</key>
+	<string>sharedDecorationState</string>
+	<key>decorationParameterKind</key>
+	<string>singletonSinceLayer</string>
+	<key>methodTypeIndex</key>
+	<string>currentLayoutSkewx</string>
+	<key>mutableBlocInset</key>
+	<string>bitrateNumberInset</string>
+</dict>
+</plist>

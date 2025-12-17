@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerActivityColor</key>
+	<string>catalystLikeAction</string>
+	<key>spineContextPressure</key>
+	<string>storagePhaseOffset</string>
+	<key>spineParameterInteraction</key>
+	<string>cubitPerDecorator</string>
+	<key>statelessScreenTop</key>
+	<string>checkboxNumberTransparency</string>
+	<key>streamVersusFlyweight</key>
+	<string>mutableReducerVelocity</string>
+	<key>textForType</key>
+	<string>requestDespiteObserver</string>
+</dict>
+</plist>

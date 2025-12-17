@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notifierLayerForce</key>
+	<string>drawerWithoutLevel</string>
+	<key>painterWithoutPlatform</key>
+	<string>cycleStructureAcceleration</string>
+	<key>spriteModeScale</key>
+	<string>geometricMemberBehavior</string>
+	<key>tickerInterpreterHead</key>
+	<string>invisibleMasterSaturation</string>
+</dict>
+</plist>

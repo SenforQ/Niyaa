@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAboutValue</key>
+	<string>completionAdapterShade</string>
+	<key>independentThreadKind</key>
+	<string>sizedboxCycleAlignment</string>
+	<key>offsetBufferShape</key>
+	<string>hyperbolicHistogramOffset</string>
+	<key>sizeValueValidation</key>
+	<string>spineWithVisitor</string>
+	<key>visibleGridInterval</key>
+	<string>singletonAboutFlyweight</string>
+</dict>
+</plist>

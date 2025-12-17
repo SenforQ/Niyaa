@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonVersusOperation</key>
+	<string>agileGridIndex</string>
+	<key>callbackWithoutMode</key>
+	<string>capsuleAsComposite</string>
+	<key>cubitExceptLevel</key>
+	<string>layoutInsideProcess</string>
+	<key>descriptionEnvironmentFlags</key>
+	<string>subscriptionTaskBorder</string>
+	<key>layerFormPressure</key>
+	<string>activeScrollRate</string>
+	<key>navigatorCompositeShade</key>
+	<string>particleInScope</string>
+	<key>requestUntilPattern</key>
+	<string>routerViaPattern</string>
+	<key>responseFunctionPadding</key>
+	<string>offsetAsParam</string>
+</dict>
+</plist>

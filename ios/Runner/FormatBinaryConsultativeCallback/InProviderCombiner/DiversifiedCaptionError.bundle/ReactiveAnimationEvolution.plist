@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAdapterStyle</key>
+	<string>alphaNumberFrequency</string>
+	<key>configurationStagePadding</key>
+	<string>viewUntilDecorator</string>
+	<key>gridviewWithProxy</key>
+	<string>respectiveCubitCoord</string>
+	<key>smallNotifierMargin</key>
+	<string>menuCommandMomentum</string>
+</dict>
+</plist>

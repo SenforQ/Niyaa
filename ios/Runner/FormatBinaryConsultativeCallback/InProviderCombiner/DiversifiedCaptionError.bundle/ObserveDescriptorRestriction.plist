@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionAgainstLevel</key>
+	<string>tensorPopupAlignment</string>
+	<key>futureAroundType</key>
+	<string>stateSystemFeedback</string>
+	<key>gridviewAlongStyle</key>
+	<string>hierarchicalControllerDelay</string>
+	<key>mediaJobFeedback</key>
+	<string>consumerViaStage</string>
+</dict>
+</plist>

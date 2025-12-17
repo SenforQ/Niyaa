@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartLikeFlyweight</key>
+	<string>animationFromTask</string>
+	<key>checklistIncludeContext</key>
+	<string>controllerOfContext</string>
+	<key>difficultStreamState</key>
+	<string>activityOutsideFlyweight</string>
+	<key>exceptionWithoutFlyweight</key>
+	<string>multiTaskRate</string>
+	<key>futureBridgeDuration</key>
+	<string>decorationMediatorOpacity</string>
+	<key>heroPlatformCenter</key>
+	<string>monsterPrototypeTop</string>
+	<key>radiusAtAdapter</key>
+	<string>specifierModeFrequency</string>
+	<key>radiusVarTop</key>
+	<string>sustainableModelVisible</string>
+	<key>tangentActionMode</key>
+	<string>denseCoordinatorCoord</string>
+</dict>
+</plist>

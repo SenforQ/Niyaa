@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateResourceFlags</key>
+	<string>chartActionInteraction</string>
+	<key>mainExceptionSkewy</key>
+	<string>mediaqueryChainValidation</string>
+	<key>optimizerFromDecorator</key>
+	<string>builderLikeComposite</string>
+	<key>themeDecoratorHead</key>
+	<string>tabbarModeOffset</string>
+</dict>
+</plist>

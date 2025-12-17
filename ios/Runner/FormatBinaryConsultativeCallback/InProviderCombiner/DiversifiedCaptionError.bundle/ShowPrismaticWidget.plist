@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeTask</key>
+	<string>compositionalVariantSkewx</string>
+	<key>blocNearContext</key>
+	<string>newestBrushDelay</string>
+	<key>cursorActivityVisible</key>
+	<string>normChainInterval</string>
+	<key>finalQueryIndex</key>
+	<string>statefulVariableHead</string>
+	<key>gridviewWorkBehavior</key>
+	<string>effectPhaseMode</string>
+	<key>projectionAndStage</key>
+	<string>stepStateLeft</string>
+	<key>requiredDecorationCount</key>
+	<string>statelessFromSystem</string>
+	<key>tabviewTierOrientation</key>
+	<string>navigatorPerMediator</string>
+	<key>tweenCompositeBehavior</key>
+	<string>configurationThroughParam</string>
+	<key>uniqueInjectionShape</key>
+	<string>entityScopeVisible</string>
+</dict>
+</plist>

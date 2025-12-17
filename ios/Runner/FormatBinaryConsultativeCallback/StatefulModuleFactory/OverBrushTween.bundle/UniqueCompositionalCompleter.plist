@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDespiteAdapter</key>
+	<string>observerSystemSpeed</string>
+	<key>awaitInterpreterForce</key>
+	<string>inkwellCycleVelocity</string>
+	<key>buttonVariableOffset</key>
+	<string>imperativeResultSize</string>
+	<key>cardFrameworkBrightness</key>
+	<string>layoutCommandPressure</string>
+	<key>dimensionOutsideVariable</key>
+	<string>delegateDespiteInterpreter</string>
+	<key>mapWorkTransparency</key>
+	<string>cubitThanChain</string>
+	<key>modulusWorkValidation</key>
+	<string>parallelExpandedAcceleration</string>
+	<key>resizableInteractorBound</key>
+	<string>mobileVariableDuration</string>
+</dict>
+</plist>

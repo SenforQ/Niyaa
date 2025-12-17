@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleFlyweightDelay</key>
+	<string>ephemeralSingletonColor</string>
+	<key>crudeTableStatus</key>
+	<string>symmetricTableTheme</string>
+	<key>enabledProgressbarValidation</key>
+	<string>dedicatedStackBehavior</string>
+	<key>ephemeralCaptionVelocity</key>
+	<string>controllerAlongPattern</string>
+	<key>immutableVectorStyle</key>
+	<string>subpixelVersusSingleton</string>
+	<key>memberAmongShape</key>
+	<string>profileFlyweightMargin</string>
+	<key>skinFlyweightOffset</key>
+	<string>batchByAdapter</string>
+</dict>
+</plist>

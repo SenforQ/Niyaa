@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocExceptCycle</key>
+	<string>directCanvasFormat</string>
+	<key>coordinatorShapeSkewx</key>
+	<string>timerOrState</string>
+	<key>graphicWithoutScope</key>
+	<string>lostControllerFormat</string>
+	<key>labelOutsideTier</key>
+	<string>draggableStreamBorder</string>
+	<key>nibOrPhase</key>
+	<string>granularMapMomentum</string>
+	<key>specifyMobileTint</key>
+	<string>smallProgressbarName</string>
+	<key>timerAlongContext</key>
+	<string>geometricGetxDistance</string>
+</dict>
+</plist>

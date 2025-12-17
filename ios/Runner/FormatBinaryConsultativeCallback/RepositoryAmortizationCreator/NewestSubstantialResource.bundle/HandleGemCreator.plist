@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiBlocAcceleration</key>
+	<string>denseLocalizationTransparency</string>
+	<key>positionPatternBrightness</key>
+	<string>singlePlateRotation</string>
+	<key>similarCardState</key>
+	<string>permissiveAlignmentTransparency</string>
+	<key>textfieldExceptStyle</key>
+	<string>decorationNumberDensity</string>
+	<key>tweenCycleCoord</key>
+	<string>signatureTypeOrigin</string>
+</dict>
+</plist>

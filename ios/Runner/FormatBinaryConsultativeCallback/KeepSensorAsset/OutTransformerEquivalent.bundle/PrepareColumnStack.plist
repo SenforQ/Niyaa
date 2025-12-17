@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseCurveMode</key>
+	<string>futureOfBridge</string>
+	<key>eventVarTransparency</key>
+	<string>completerAtStyle</string>
+	<key>normalTransitionTag</key>
+	<string>catalystWithComposite</string>
+	<key>persistentRouterHue</key>
+	<string>indicatorStateMode</string>
+	<key>skinByLevel</key>
+	<string>agileEffectPadding</string>
+	<key>unsortedSlashBrightness</key>
+	<string>activityForParam</string>
+	<key>webTransitionCenter</key>
+	<string>labelSystemLeft</string>
+</dict>
+</plist>

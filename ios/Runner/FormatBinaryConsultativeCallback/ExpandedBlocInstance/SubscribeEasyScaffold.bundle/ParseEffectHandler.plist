@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAsPrototype</key>
+	<string>allocatorTempleFeedback</string>
+	<key>containerStateBehavior</key>
+	<string>isolateFunctionKind</string>
+	<key>statefulFlexTension</key>
+	<string>priorAsyncStatus</string>
+	<key>zoneProcessInterval</key>
+	<string>crucialExceptionScale</string>
+</dict>
+</plist>

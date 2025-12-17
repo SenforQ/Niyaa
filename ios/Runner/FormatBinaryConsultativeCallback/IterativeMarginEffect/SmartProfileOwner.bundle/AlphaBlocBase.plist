@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMetadataOffset</key>
+	<string>commonOverlayTheme</string>
+	<key>coordinatorSingletonValidation</key>
+	<string>routerLevelSpacing</string>
+	<key>firstDelegateDepth</key>
+	<string>movementChainSize</string>
+	<key>graphPlatformRotation</key>
+	<string>transformerDespiteType</string>
+	<key>injectionContainPattern</key>
+	<string>configurationProxyDepth</string>
+	<key>singletonAlongEnvironment</key>
+	<string>signatureInsidePlatform</string>
+	<key>sinkThanType</key>
+	<string>checkboxAndNumber</string>
+	<key>symbolValueAlignment</key>
+	<string>rapidSlashAcceleration</string>
+</dict>
+</plist>

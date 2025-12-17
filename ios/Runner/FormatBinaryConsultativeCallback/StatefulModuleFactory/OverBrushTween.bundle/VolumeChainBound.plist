@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProjectionMode</key>
+	<string>animatedcontainerWorkState</string>
+	<key>assetSingletonDuration</key>
+	<string>frameForComposite</string>
+	<key>cubitCompositeRate</key>
+	<string>streamNumberFrequency</string>
+	<key>inactiveGradientCenter</key>
+	<string>subscriptionFormDelay</string>
+	<key>metadataNumberBound</key>
+	<string>tableVarTag</string>
+	<key>navigationOfPhase</key>
+	<string>offsetBridgeHead</string>
+	<key>resultInParameter</key>
+	<string>denseMobileBound</string>
+	<key>statefulAnchorForce</key>
+	<string>lostSignScale</string>
+	<key>themeAndObserver</key>
+	<string>accordionTimerSaturation</string>
+	<key>timerDecoratorDistance</key>
+	<string>permanentStreamOffset</string>
+</dict>
+</plist>

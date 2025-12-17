@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonOptimizerSpeed</key>
+	<string>immutableSensorVelocity</string>
+	<key>mobileIncludeAction</key>
+	<string>sharedUsecaseStyle</string>
+	<key>topicTaskLeft</key>
+	<string>graphAlongValue</string>
+</dict>
+</plist>

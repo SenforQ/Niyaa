@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationEnvironmentBorder</key>
+	<string>widgetTaskAppearance</string>
+	<key>getxAmongShape</key>
+	<string>queueCommandEdge</string>
+	<key>gradientPerDecorator</key>
+	<string>backwardThreadVisibility</string>
+	<key>statefulLayerCenter</key>
+	<string>cubitAndContext</string>
+</dict>
+</plist>

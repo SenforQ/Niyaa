@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandContextSpacing</key>
+	<string>denseGramShape</string>
+	<key>dependencyFacadeDistance</key>
+	<string>awaitBySingleton</string>
+	<key>diffablePointLocation</key>
+	<string>basicGroupMargin</string>
+	<key>rapidSinkVisibility</key>
+	<string>instructionSingletonSpeed</string>
+	<key>storeVisitorDelay</key>
+	<string>entityFormLocation</string>
+	<key>uniformControllerRate</key>
+	<string>similarConvolutionTransparency</string>
+	<key>vectorTierInterval</key>
+	<string>animationStrategyColor</string>
+</dict>
+</plist>

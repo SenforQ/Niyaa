@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesPhasePosition</key>
+	<string>interfaceOutsideBuffer</string>
+	<key>currentCapacitiesBehavior</key>
+	<string>reducerAlongFacade</string>
+	<key>mediaqueryProxySkewx</key>
+	<string>numericalAnimationBrightness</string>
+	<key>textLevelDuration</key>
+	<string>asyncStateMode</string>
+	<key>timerOfMemento</key>
+	<string>geometricGesturedetectorDepth</string>
+	<key>toolParameterDuration</key>
+	<string>tickerFrameworkHead</string>
+</dict>
+</plist>

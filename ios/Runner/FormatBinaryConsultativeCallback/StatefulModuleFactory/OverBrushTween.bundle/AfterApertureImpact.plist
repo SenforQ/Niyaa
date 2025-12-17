@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCubitShade</key>
+	<string>basicGestureBehavior</string>
+	<key>cubitCycleType</key>
+	<string>builderModeSkewy</string>
+	<key>denseNodePadding</key>
+	<string>directlyTextDistance</string>
+	<key>extensionBridgeCoord</key>
+	<string>custompaintPatternFormat</string>
+	<key>liteTaskFlags</key>
+	<string>dependencyAwayNumber</string>
+	<key>mobileSignatureIndex</key>
+	<string>channelInsideObserver</string>
+	<key>playbackOperationPadding</key>
+	<string>catalystCommandContrast</string>
+	<key>stateLayerOpacity</key>
+	<string>iterativeVariantRotation</string>
+	<key>taskViaStyle</key>
+	<string>invisiblePositionContrast</string>
+</dict>
+</plist>

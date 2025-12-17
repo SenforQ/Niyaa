@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteCursorTransparency</key>
+	<string>profileBesideCommand</string>
+	<key>decorationOutsideFramework</key>
+	<string>grayscaleOrProcess</string>
+	<key>firstLabelRotation</key>
+	<string>containerPerVar</string>
+	<key>graphLayerLeft</key>
+	<string>swiftFlyweightCoord</string>
+	<key>momentumOfProcess</key>
+	<string>navigationInterpreterState</string>
+	<key>reusableMatrixOpacity</key>
+	<string>typicalVariantBorder</string>
+</dict>
+</plist>

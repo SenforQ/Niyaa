@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionMementoTint</key>
+	<string>granularSemanticsLocation</string>
+	<key>gesturedetectorSingletonTail</key>
+	<string>optimizerTaskTail</string>
+	<key>overlayTypePadding</key>
+	<string>dropdownbuttonContextEdge</string>
+	<key>playbackWithoutForm</key>
+	<string>promiseIncludeProxy</string>
+</dict>
+</plist>

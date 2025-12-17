@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartStyleDistance</key>
+	<string>animatedBaselineVelocity</string>
+	<key>gateByNumber</key>
+	<string>radiusBufferBound</string>
+	<key>pivotalSubpixelInset</key>
+	<string>routeContextFeedback</string>
+	<key>positionedBeyondOperation</key>
+	<string>hardActionRotation</string>
+	<key>queryContainState</key>
+	<string>zoneAboutComposite</string>
+	<key>swiftActionIndex</key>
+	<string>navigationCommandType</string>
+</dict>
+</plist>

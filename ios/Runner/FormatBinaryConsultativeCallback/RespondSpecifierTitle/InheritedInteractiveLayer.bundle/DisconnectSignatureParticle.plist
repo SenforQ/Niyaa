@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRowDensity</key>
+	<string>unaryPatternForce</string>
+	<key>behaviorAroundMemento</key>
+	<string>bitrateInsideParameter</string>
+	<key>exceptionAwayType</key>
+	<string>asyncRequestStyle</string>
+	<key>gridviewJobBound</key>
+	<string>asyncLabelValidation</string>
+	<key>interpolationOrStrategy</key>
+	<string>menuNearNumber</string>
+	<key>reducerContextShape</key>
+	<string>heapSingletonBound</string>
+</dict>
+</plist>

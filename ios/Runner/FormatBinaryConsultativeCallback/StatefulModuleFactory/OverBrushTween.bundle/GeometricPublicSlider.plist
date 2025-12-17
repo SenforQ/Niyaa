@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionVarBehavior</key>
+	<string>builderContextOffset</string>
+	<key>flexNumberOffset</key>
+	<string>intermediateRoleAlignment</string>
+	<key>mediaqueryContextDelay</key>
+	<string>semanticsOperationMomentum</string>
+	<key>skirtSinceMemento</key>
+	<string>consumerProcessCenter</string>
+</dict>
+</plist>

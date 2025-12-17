@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAsShape</key>
+	<string>secondLayoutOffset</string>
+	<key>batchSingletonType</key>
+	<string>spriteStageSkewx</string>
+	<key>descriptionAlongState</key>
+	<string>anchorInsideStructure</string>
+	<key>notifierTypeCount</key>
+	<string>staticPromiseRate</string>
+	<key>particleAlongLayer</key>
+	<string>cycleAboutType</string>
+	<key>reducerFromParameter</key>
+	<string>immediateAppbarShape</string>
+	<key>singletonPrototypeLeft</key>
+	<string>requestKindValidation</string>
+	<key>streamAndStrategy</key>
+	<string>layoutMediatorKind</string>
+</dict>
+</plist>

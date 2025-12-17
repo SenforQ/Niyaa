@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerFunctionPadding</key>
+	<string>deferredSingletonVisible</string>
+	<key>exceptionBesideActivity</key>
+	<string>tablePerObserver</string>
+	<key>liteButtonStyle</key>
+	<string>sliderThroughMode</string>
+	<key>memberTypeBound</key>
+	<string>drawerNearPlatform</string>
+	<key>tickerBeyondStrategy</key>
+	<string>expandedSingletonBottom</string>
+</dict>
+</plist>

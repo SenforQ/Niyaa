@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioInterpreterSkewx</key>
+	<string>swiftVersusFlyweight</string>
+	<key>controllerSingletonTheme</key>
+	<string>fusedControllerSkewx</string>
+	<key>frameInterpreterFeedback</key>
+	<string>bitrateEnvironmentMargin</string>
+	<key>mediocreTouchPadding</key>
+	<string>customOffsetDensity</string>
+	<key>toolDecoratorIndex</key>
+	<string>captionAsStyle</string>
+	<key>visibleEffectSpeed</key>
+	<string>functionalConvolutionVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableNodeHead</key>
+	<string>variantIncludeContext</string>
+	<key>concreteMediaqueryTail</key>
+	<string>sceneIncludeEnvironment</string>
+	<key>constraintByAdapter</key>
+	<string>requestPlatformLocation</string>
+	<key>descriptionJobPressure</key>
+	<string>animationShapeResponse</string>
+	<key>featureDuringPhase</key>
+	<string>vectorDespiteProxy</string>
+	<key>persistentServiceIndex</key>
+	<string>textMethodForce</string>
+	<key>positionVisitorMomentum</key>
+	<string>screenLayerDistance</string>
+	<key>projectionCompositeValidation</key>
+	<string>imageWithoutInterpreter</string>
+	<key>resourceAboutPattern</key>
+	<string>overlayTaskTop</string>
+</dict>
+</plist>

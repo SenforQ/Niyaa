@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertEnvironmentScale</key>
+	<string>euclideanNormBorder</string>
+	<key>arithmeticNotificationBottom</key>
+	<string>immediateControllerFeedback</string>
+	<key>configurationActivityDepth</key>
+	<string>signatureNearSystem</string>
+	<key>draggableLayoutType</key>
+	<string>errorStateInteraction</string>
+	<key>flexSinceNumber</key>
+	<string>robustIntegerDepth</string>
+	<key>fusedNavigatorTension</key>
+	<string>resilientGrayscaleResponse</string>
+	<key>gridVersusSystem</key>
+	<string>accordionResultAcceleration</string>
+	<key>inactiveDescriptorTension</key>
+	<string>unaryActivityFrequency</string>
+	<key>normStageTop</key>
+	<string>persistentDimensionIndex</string>
+	<key>utilMethodFlags</key>
+	<string>respectiveTernaryName</string>
+</dict>
+</plist>

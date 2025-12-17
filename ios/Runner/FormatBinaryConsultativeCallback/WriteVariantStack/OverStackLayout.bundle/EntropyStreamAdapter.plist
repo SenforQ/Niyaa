@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperMementoType</key>
+	<string>symmetricBrushTint</string>
+	<key>materialConfigurationSpeed</key>
+	<string>secondConfigurationVelocity</string>
+	<key>rowTypeSaturation</key>
+	<string>dimensionAndNumber</string>
+</dict>
+</plist>

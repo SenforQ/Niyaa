@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBehaviorSkewy</key>
+	<string>matrixCommandResponse</string>
+	<key>alertMethodDelay</key>
+	<string>associatedGradientDistance</string>
+	<key>delegateActivityStyle</key>
+	<string>dialogsWithoutStage</string>
+	<key>giftForMediator</key>
+	<string>webRichtextTheme</string>
+	<key>interactorContainTier</key>
+	<string>multiGraphicOrigin</string>
+	<key>profileEnvironmentDuration</key>
+	<string>otherSizeTint</string>
+	<key>segmentStateFeedback</key>
+	<string>immutableCommandVisible</string>
+</dict>
+</plist>

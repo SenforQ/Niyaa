@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAwayActivity</key>
+	<string>displayableDialogsSpeed</string>
+	<key>groupByTier</key>
+	<string>resizableResourceDuration</string>
+	<key>responsiveNavigatorSkewx</key>
+	<string>canvasStylePadding</string>
+	<key>routerSinceSystem</key>
+	<string>entitySinceStage</string>
+	<key>segueAmongLevel</key>
+	<string>radioOrShape</string>
+	<key>visibleAlphaFeedback</key>
+	<string>iconTypeVisible</string>
+</dict>
+</plist>

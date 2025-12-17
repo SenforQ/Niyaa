@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelOutsideStage</key>
+	<string>granularTabbarMode</string>
+	<key>columnWithForm</key>
+	<string>draggableLoopPressure</string>
+	<key>commonWidgetInset</key>
+	<string>columnScopeSpeed</string>
+	<key>firstBoxInteraction</key>
+	<string>compositionalExponentShade</string>
+	<key>normalIndicatorStyle</key>
+	<string>interfaceLevelLocation</string>
+	<key>permanentAllocatorType</key>
+	<string>mobxPatternInteraction</string>
+	<key>publicAssetDistance</key>
+	<string>cosineProcessAcceleration</string>
+	<key>routeAwayMediator</key>
+	<string>curveWorkDensity</string>
+	<key>semanticContainerTheme</key>
+	<string>ignoredCurveValidation</string>
+	<key>stepContextHue</key>
+	<string>specifierParamTransparency</string>
+</dict>
+</plist>

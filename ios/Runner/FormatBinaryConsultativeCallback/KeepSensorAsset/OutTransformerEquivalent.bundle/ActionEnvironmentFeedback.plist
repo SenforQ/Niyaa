@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletCompositeOpacity</key>
+	<string>channelTypePosition</string>
+	<key>convolutionNumberValidation</key>
+	<string>mediocreInteractorRate</string>
+	<key>customGridviewFrequency</key>
+	<string>gridVersusAction</string>
+	<key>euclideanDrawerColor</key>
+	<string>assetAroundDecorator</string>
+	<key>exceptionCompositeBound</key>
+	<string>granularRowDelay</string>
+	<key>fusedScrollDelay</key>
+	<string>ternarySystemAcceleration</string>
+	<key>labelByCommand</key>
+	<string>featureUntilDecorator</string>
+	<key>listviewForAdapter</key>
+	<string>statefulJobValidation</string>
+	<key>remainderAtProcess</key>
+	<string>completionDespiteChain</string>
+</dict>
+</plist>

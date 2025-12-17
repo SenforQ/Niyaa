@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisOutsideBuffer</key>
+	<string>titleAdapterPadding</string>
+	<key>constraintBeyondChain</key>
+	<string>localViewBound</string>
+	<key>dependencyFromFramework</key>
+	<string>unactivatedRadiusContrast</string>
+	<key>euclideanCubitTheme</key>
+	<string>shaderAgainstMode</string>
+	<key>navigationStructureDensity</key>
+	<string>shaderStageMode</string>
+	<key>taskDuringStage</key>
+	<string>permissiveGraphOpacity</string>
+	<key>topicUntilVariable</key>
+	<string>zoneInterpreterSkewx</string>
+	<key>unsortedReducerInterval</key>
+	<string>mobileDialogsPadding</string>
+</dict>
+</plist>

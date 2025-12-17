@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAroundPattern</key>
+	<string>containerWithoutInterpreter</string>
+	<key>grayscalePlatformDensity</key>
+	<string>uniqueManagerScale</string>
+	<key>gridviewContextTag</key>
+	<string>persistentScaleDepth</string>
+	<key>hyperbolicLogarithmVisible</key>
+	<string>topicOrScope</string>
+	<key>nibJobVisible</key>
+	<string>nextSubpixelTransparency</string>
+	<key>originalCallbackShade</key>
+	<string>mainFutureRate</string>
+	<key>queryFormSpeed</key>
+	<string>richtextAndPrototype</string>
+	<key>queueFlyweightAcceleration</key>
+	<string>otherPreviewResponse</string>
+	<key>uniqueFactoryTransparency</key>
+	<string>routeFlyweightSkewy</string>
+</dict>
+</plist>

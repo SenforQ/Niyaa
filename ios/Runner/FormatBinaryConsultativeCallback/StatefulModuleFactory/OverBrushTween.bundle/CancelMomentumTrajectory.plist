@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMissionAlignment</key>
+	<string>gesturedetectorActionPosition</string>
+	<key>ignoredWorkflowTint</key>
+	<string>navigatorChainCount</string>
+	<key>missedProviderAppearance</key>
+	<string>lostGetxScale</string>
+	<key>presenterAsType</key>
+	<string>reducerActivityForce</string>
+	<key>resourceThanActivity</key>
+	<string>coordinatorStyleVelocity</string>
+	<key>webInterfaceDelay</key>
+	<string>utilInFlyweight</string>
+</dict>
+</plist>

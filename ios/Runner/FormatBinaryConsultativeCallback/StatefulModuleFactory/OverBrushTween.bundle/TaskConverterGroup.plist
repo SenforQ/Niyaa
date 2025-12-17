@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableInterfaceMomentum</key>
+	<string>animationUntilVar</string>
+	<key>handlerBridgeResponse</key>
+	<string>lossFrameworkBottom</string>
+	<key>mobileWithoutStyle</key>
+	<string>backwardWidgetFrequency</string>
+</dict>
+</plist>

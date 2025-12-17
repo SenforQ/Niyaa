@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableZoneType</key>
+	<string>interfaceModeColor</string>
+	<key>gesturedetectorWorkMomentum</key>
+	<string>mobileSensorInteraction</string>
+	<key>greatCallbackSize</key>
+	<string>originalBehaviorInset</string>
+	<key>optimizerVersusForm</key>
+	<string>inkwellKindPosition</string>
+	<key>subsequentTickerShade</key>
+	<string>granularProjectionTint</string>
+</dict>
+</plist>

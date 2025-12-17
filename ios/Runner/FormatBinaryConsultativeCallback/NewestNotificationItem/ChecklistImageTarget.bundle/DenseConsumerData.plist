@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintParamLeft</key>
+	<string>tickerWithoutActivity</string>
+	<key>dependencyThroughParameter</key>
+	<string>constraintStrategyOpacity</string>
+	<key>getxByBridge</key>
+	<string>previewActionPadding</string>
+	<key>layoutWithMode</key>
+	<string>graphicUntilMediator</string>
+	<key>navigatorContainState</key>
+	<string>remainderParamColor</string>
+	<key>responseTemplePadding</key>
+	<string>textureViaVariable</string>
+</dict>
+</plist>

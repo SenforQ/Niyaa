@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarOfJob</key>
+	<string>exceptionFormAppearance</string>
+	<key>capsuleContextMode</key>
+	<string>gridCompositeTransparency</string>
+	<key>cartesianChecklistVisible</key>
+	<string>liteSegmentBehavior</string>
+	<key>consumerViaForm</key>
+	<string>characterByState</string>
+	<key>declarativeStoryboardDepth</key>
+	<string>discardedAsyncFrequency</string>
+	<key>eagerTimerHue</key>
+	<string>routeObserverVisibility</string>
+	<key>firstHashVelocity</key>
+	<string>topicAndComposite</string>
+	<key>swiftVarTransparency</key>
+	<string>denseOffsetCenter</string>
+	<key>switchIncludeCommand</key>
+	<string>usecaseStateIndex</string>
+	<key>webConfigurationFeedback</key>
+	<string>masterContextDuration</string>
+</dict>
+</plist>

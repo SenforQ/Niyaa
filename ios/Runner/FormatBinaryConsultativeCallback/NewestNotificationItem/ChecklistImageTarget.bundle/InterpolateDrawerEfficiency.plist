@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOfContext</key>
+	<string>transitionExceptWork</string>
+	<key>interactivePlaybackVisible</key>
+	<string>asyncWithPlatform</string>
+	<key>robustBaseTag</key>
+	<string>touchLevelOrientation</string>
+	<key>subpixelLayerState</key>
+	<string>petForProcess</string>
+	<key>symmetricAspectratioTag</key>
+	<string>persistentInteractorPadding</string>
+</dict>
+</plist>

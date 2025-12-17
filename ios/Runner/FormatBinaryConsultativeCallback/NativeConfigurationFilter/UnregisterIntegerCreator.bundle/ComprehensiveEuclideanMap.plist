@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerOperationVisible</key>
+	<string>widgetOutsideStructure</string>
+	<key>crudeCurveBehavior</key>
+	<string>touchPatternRate</string>
+	<key>curveStyleDuration</key>
+	<string>backwardBlocPosition</string>
+	<key>dropdownbuttonStateDistance</key>
+	<string>hyperbolicFrameTail</string>
+	<key>imagePrototypeOrigin</key>
+	<string>constDescriptionInteraction</string>
+	<key>interactiveGroupInteraction</key>
+	<string>listenerOfBuffer</string>
+	<key>providerFrameworkShape</key>
+	<string>disparatePreviewCoord</string>
+	<key>resilientThreadBehavior</key>
+	<string>customSceneBottom</string>
+	<key>robustProviderOffset</key>
+	<string>segueCompositeAlignment</string>
+</dict>
+</plist>

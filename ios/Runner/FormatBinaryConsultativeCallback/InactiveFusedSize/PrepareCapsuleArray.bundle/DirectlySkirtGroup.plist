@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardNavigatorFormat</key>
+	<string>hierarchicalCubeLocation</string>
+	<key>customizedTextDirection</key>
+	<string>desktopListviewRight</string>
+	<key>desktopSegmentDepth</key>
+	<string>sharedPreviewLocation</string>
+	<key>geometricBatchStatus</key>
+	<string>viewStageOrigin</string>
+	<key>gridVisitorSpeed</key>
+	<string>hyperbolicNavigatorInteraction</string>
+	<key>injectionInsideNumber</key>
+	<string>commandVersusStructure</string>
+	<key>responsiveTextCenter</key>
+	<string>pageviewSinceActivity</string>
+	<key>substantialControllerShape</key>
+	<string>taskLevelStatus</string>
+</dict>
+</plist>

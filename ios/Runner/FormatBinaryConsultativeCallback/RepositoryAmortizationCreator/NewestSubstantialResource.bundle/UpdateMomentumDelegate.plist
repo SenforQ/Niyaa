@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMediatorKind</key>
+	<string>hardAlertTag</string>
+	<key>canvasTempleMode</key>
+	<string>widgetAsEnvironment</string>
+	<key>consultativeTextFlags</key>
+	<string>radiusOutsideMemento</string>
+	<key>customApertureVelocity</key>
+	<string>coordinatorProxyValidation</string>
+	<key>disabledAllocatorHue</key>
+	<string>materialPrecisionPosition</string>
+	<key>hashTaskFrequency</key>
+	<string>directlyStatelessDistance</string>
+	<key>inactiveDialogsMode</key>
+	<string>expandedBufferStyle</string>
+	<key>logLikeSystem</key>
+	<string>resultPatternTransparency</string>
+	<key>retainedCacheAppearance</key>
+	<string>exceptionWithState</string>
+	<key>semanticIntegerSpacing</key>
+	<string>staticAwaitBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxPhaseVelocity</key>
+	<string>desktopConvolutionResponse</string>
+	<key>cosineNearMode</key>
+	<string>modelFromStyle</string>
+	<key>ignoredScaffoldFrequency</key>
+	<string>roleCycleDensity</string>
+	<key>nativeWorkflowSaturation</key>
+	<string>routerCycleInset</string>
+	<key>notificationSinceStage</key>
+	<string>animatedcontainerStructureVisible</string>
+	<key>offsetObserverDelay</key>
+	<string>heapByOperation</string>
+	<key>precisionPerAction</key>
+	<string>accordionPlaybackType</string>
+	<key>requestSinceTask</key>
+	<string>pivotalPositionedStatus</string>
+</dict>
+</plist>

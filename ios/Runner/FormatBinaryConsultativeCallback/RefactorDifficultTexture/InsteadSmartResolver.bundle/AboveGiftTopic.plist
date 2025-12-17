@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAndState</key>
+	<string>baselineFromContext</string>
+	<key>completerByMediator</key>
+	<string>cubitOperationTop</string>
+	<key>customColumnTop</key>
+	<string>taskAgainstWork</string>
+	<key>injectionAmongTask</key>
+	<string>sequentialCallbackEdge</string>
+	<key>interfaceNearMemento</key>
+	<string>constraintUntilParameter</string>
+	<key>stepVisitorShape</key>
+	<string>autoCustompaintContrast</string>
+</dict>
+</plist>

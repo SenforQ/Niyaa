@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAmongKind</key>
+	<string>primaryActionSkewy</string>
+	<key>asyncMethodTransparency</key>
+	<string>permissiveStoreDelay</string>
+	<key>consultativeAnimationOffset</key>
+	<string>chartSinceProxy</string>
+	<key>dimensionOrNumber</key>
+	<string>scrollableTickerPadding</string>
+	<key>popupAgainstBridge</key>
+	<string>entityTaskSkewy</string>
+	<key>topicThroughPrototype</key>
+	<string>collectionViaPrototype</string>
+	<key>usageAlongMediator</key>
+	<string>statefulAroundSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConsumerInteraction</key>
+	<string>viewViaPrototype</string>
+	<key>asyncModeStatus</key>
+	<string>immutableModelSpeed</string>
+	<key>checklistStageBehavior</key>
+	<string>injectionObserverName</string>
+	<key>coordinatorPatternSize</key>
+	<string>descriptionAboutEnvironment</string>
+	<key>largeObserverInset</key>
+	<string>plateObserverMargin</string>
+	<key>requestAsVar</key>
+	<string>resourceAroundStructure</string>
+	<key>specifyRichtextDirection</key>
+	<string>localizationOrVar</string>
+	<key>statefulSpotDuration</key>
+	<string>pointAsMode</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAnimationSkewx</key>
+	<string>crudeFeatureDelay</string>
+	<key>baseFormLocation</key>
+	<string>delegateVarVelocity</string>
+	<key>cupertinoInteractorStyle</key>
+	<string>chartWorkTransparency</string>
+	<key>deferredRectValidation</key>
+	<string>reusableStreamStatus</string>
+	<key>directlyCompositionIndex</key>
+	<string>specifierTierColor</string>
+	<key>listenerEnvironmentSpacing</key>
+	<string>descriptionProxySkewy</string>
+	<key>plateInsideMediator</key>
+	<string>reusableNavigationInteraction</string>
+	<key>protectedHashCenter</key>
+	<string>layoutCompositeVelocity</string>
+</dict>
+</plist>

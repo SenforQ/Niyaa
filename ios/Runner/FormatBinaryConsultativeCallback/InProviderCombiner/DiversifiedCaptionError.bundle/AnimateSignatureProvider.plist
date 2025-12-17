@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPreviewStyle</key>
+	<string>viewAndSingleton</string>
+	<key>bulletAgainstProcess</key>
+	<string>protectedNavigatorVelocity</string>
+	<key>constraintPhaseShade</key>
+	<string>utilAgainstBridge</string>
+	<key>materialModelStyle</key>
+	<string>ternaryCompositeMomentum</string>
+	<key>retainedButtonSaturation</key>
+	<string>draggableHashDuration</string>
+	<key>routerParamSkewx</key>
+	<string>curveOrMode</string>
+</dict>
+</plist>

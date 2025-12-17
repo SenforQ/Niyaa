@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncWithParameter</key>
+	<string>arithmeticThroughObserver</string>
+	<key>decorationNumberShape</key>
+	<string>overlayActivityInset</string>
+	<key>globalStepInterval</key>
+	<string>popupForNumber</string>
+	<key>isolateDuringScope</key>
+	<string>queueStyleSkewx</string>
+	<key>originalRowCenter</key>
+	<string>missedMetadataTail</string>
+	<key>pinchableDurationMomentum</key>
+	<string>ternaryPhaseStyle</string>
+	<key>reusableErrorAppearance</key>
+	<string>providerOrMode</string>
+	<key>sliderThroughInterpreter</key>
+	<string>containerSinceCycle</string>
+	<key>statefulExtensionState</key>
+	<string>radiusAroundNumber</string>
+	<key>transitionAndMode</key>
+	<string>singletonAndMemento</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramShapeDensity</key>
+	<string>exceptionContextPressure</string>
+	<key>inkwellOfStage</key>
+	<string>layerEnvironmentSkewy</string>
+	<key>mediaSingletonFormat</key>
+	<string>advancedStorageAcceleration</string>
+	<key>unactivatedGroupCenter</key>
+	<string>priorityEnvironmentName</string>
+	<key>unactivatedUsecaseSkewx</key>
+	<string>dependencyPatternBehavior</string>
+</dict>
+</plist>

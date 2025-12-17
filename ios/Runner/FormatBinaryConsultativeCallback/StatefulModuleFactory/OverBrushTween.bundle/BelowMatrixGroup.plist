@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFeatureFlags</key>
+	<string>primaryLayerContrast</string>
+	<key>animatedDescriptionMode</key>
+	<string>precisionFromFacade</string>
+	<key>baselineVisitorStatus</key>
+	<string>immutableHandlerTransparency</string>
+	<key>cartesianBufferFeedback</key>
+	<string>gradientSingletonDuration</string>
+	<key>mobileChannelScale</key>
+	<string>screenAwayVisitor</string>
+	<key>skirtBeyondChain</key>
+	<string>providerOutsideMode</string>
+	<key>uniqueEntropyAlignment</key>
+	<string>indicatorBeyondParam</string>
+</dict>
+</plist>

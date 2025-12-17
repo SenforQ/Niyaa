@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaDecoratorHead</key>
+	<string>checklistProxyDensity</string>
+	<key>containerCyclePosition</key>
+	<string>flexibleCosineLeft</string>
+	<key>deferredResolverTint</key>
+	<string>eagerResourcePressure</string>
+</dict>
+</plist>

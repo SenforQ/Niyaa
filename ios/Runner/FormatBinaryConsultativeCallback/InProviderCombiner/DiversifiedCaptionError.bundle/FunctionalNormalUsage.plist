@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorDespiteType</key>
+	<string>intermediateTextLocation</string>
+	<key>builderFunctionValidation</key>
+	<string>frameByComposite</string>
+	<key>fixedSpineBound</key>
+	<string>navigatorPrototypeBound</string>
+	<key>normalTextTransparency</key>
+	<string>managerSystemShape</string>
+	<key>painterBeyondForm</key>
+	<string>titleChainColor</string>
+	<key>resilientDurationLocation</key>
+	<string>labelAmongPhase</string>
+	<key>sinkStrategyStyle</key>
+	<string>layerForParam</string>
+	<key>smartContractionAcceleration</key>
+	<string>compositionalCertificateFeedback</string>
+</dict>
+</plist>

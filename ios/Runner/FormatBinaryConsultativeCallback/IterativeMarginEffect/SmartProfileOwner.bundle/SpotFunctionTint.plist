@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationPerNumber</key>
+	<string>graphStyleSpacing</string>
+	<key>diffableInkwellAcceleration</key>
+	<string>repositoryAgainstWork</string>
+	<key>missedFutureVelocity</key>
+	<string>roleFormLocation</string>
+	<key>multiRowDirection</key>
+	<string>errorCyclePosition</string>
+	<key>resizableControllerRight</key>
+	<string>cycleContextPressure</string>
+</dict>
+</plist>

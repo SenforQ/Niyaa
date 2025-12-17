@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorParameterValidation</key>
+	<string>inactiveFutureDuration</string>
+	<key>denseCacheInteraction</key>
+	<string>shaderAtState</string>
+	<key>ephemeralSubscriptionOrigin</key>
+	<string>relationalResourceDirection</string>
+	<key>listenerLikeSystem</key>
+	<string>dependencyPlatformStatus</string>
+	<key>lostPositionedHue</key>
+	<string>eventShapeSpacing</string>
+	<key>zoneExceptAction</key>
+	<string>independentCursorOrientation</string>
+</dict>
+</plist>

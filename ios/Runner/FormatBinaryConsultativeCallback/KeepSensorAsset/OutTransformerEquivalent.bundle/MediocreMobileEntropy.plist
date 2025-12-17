@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheSinceStrategy</key>
+	<string>streamVersusDecorator</string>
+	<key>completerCompositeStatus</key>
+	<string>positionedOutsideActivity</string>
+	<key>configurationAlongFacade</key>
+	<string>overlayDespiteContext</string>
+	<key>crucialManagerTop</key>
+	<string>resizableMenuPadding</string>
+	<key>opaqueBehaviorAcceleration</key>
+	<string>actionFunctionDepth</string>
+	<key>originalTickerFlags</key>
+	<string>agileStateCenter</string>
+	<key>publicRemainderSkewx</key>
+	<string>semanticCoordinatorLeft</string>
+	<key>switchAlongFramework</key>
+	<string>directGraphicDensity</string>
+	<key>touchWorkDensity</key>
+	<string>similarDelegateCount</string>
+</dict>
+</plist>

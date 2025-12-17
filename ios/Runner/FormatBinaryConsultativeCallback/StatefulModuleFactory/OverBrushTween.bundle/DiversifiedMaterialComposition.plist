@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDecorationShade</key>
+	<string>criticalAsyncBehavior</string>
+	<key>callbackThroughCycle</key>
+	<string>tickerActivityInterval</string>
+	<key>directlyHeroDirection</key>
+	<string>buttonObserverResponse</string>
+	<key>displayableRadioOffset</key>
+	<string>independentCubitDensity</string>
+	<key>intensityOfStyle</key>
+	<string>comprehensiveTransformerSpacing</string>
+	<key>methodTierSpacing</key>
+	<string>criticalBufferOrigin</string>
+	<key>routeUntilPhase</key>
+	<string>lastStatelessIndex</string>
+	<key>switchVariableTail</key>
+	<string>reducerBufferDepth</string>
+</dict>
+</plist>

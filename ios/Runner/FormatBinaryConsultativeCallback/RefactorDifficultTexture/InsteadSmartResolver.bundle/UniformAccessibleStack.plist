@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeReducerTheme</key>
+	<string>permissiveTaskInteraction</string>
+	<key>alignmentInsideScope</key>
+	<string>largeResponseShape</string>
+	<key>cardMementoEdge</key>
+	<string>keyBlocShade</string>
+	<key>characterParameterCenter</key>
+	<string>deferredSegueTail</string>
+	<key>resultProxyDensity</key>
+	<string>rowFormScale</string>
+	<key>routerExceptPrototype</key>
+	<string>associatedIsolateValidation</string>
+</dict>
+</plist>

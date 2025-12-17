@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInjectionColor</key>
+	<string>modalMementoBrightness</string>
+	<key>durationModeShade</key>
+	<string>actionAlongChain</string>
+	<key>hierarchicalPlaybackSaturation</key>
+	<string>pinchableChannelsRotation</string>
+	<key>mapParameterHue</key>
+	<string>brushDuringVariable</string>
+	<key>utilCommandVisible</key>
+	<string>menuContainObserver</string>
+</dict>
+</plist>

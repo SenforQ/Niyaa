@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxScopeColor</key>
+	<string>concreteUtilStyle</string>
+	<key>constraintAgainstTask</key>
+	<string>newestRequestPadding</string>
+	<key>cupertinoThroughJob</key>
+	<string>normalSceneInteraction</string>
+	<key>desktopAxisContrast</key>
+	<string>coordinatorStrategyTheme</string>
+	<key>normalNavigatorBehavior</key>
+	<string>crudeTextureBottom</string>
+	<key>semanticLabelSpacing</key>
+	<string>constBehaviorInset</string>
+	<key>sinkSystemSkewx</key>
+	<string>zoneFacadeInteraction</string>
+	<key>streamThroughProcess</key>
+	<string>futureNearKind</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocOfLevel</key>
+	<string>mediaqueryVersusSingleton</string>
+	<key>coordinatorAndFramework</key>
+	<string>popupModeTheme</string>
+	<key>queryFlyweightAlignment</key>
+	<string>anchorProcessFeedback</string>
+	<key>resourceVisitorRotation</key>
+	<string>activatedObserverOrientation</string>
+	<key>subpixelUntilMethod</key>
+	<string>challengeParameterCount</string>
+</dict>
+</plist>

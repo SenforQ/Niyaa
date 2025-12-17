@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteConvolutionOpacity</key>
+	<string>utilExceptValue</string>
+	<key>customizedFragmentStyle</key>
+	<string>menuAsBridge</string>
+	<key>delegateViaAction</key>
+	<string>callbackByStrategy</string>
+	<key>interpolationAndPlatform</key>
+	<string>asynchronousEntropyTop</string>
+	<key>labelLevelTension</key>
+	<string>comprehensiveCoordinatorStyle</string>
+	<key>lazyNotifierVisible</key>
+	<string>variantObserverContrast</string>
+	<key>viewVariableLeft</key>
+	<string>reactiveLayoutAlignment</string>
+</dict>
+</plist>

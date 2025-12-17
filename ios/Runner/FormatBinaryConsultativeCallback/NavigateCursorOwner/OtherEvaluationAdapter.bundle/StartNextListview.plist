@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeChapterStyle</key>
+	<string>greatStoryboardTransparency</string>
+	<key>coordinatorUntilFramework</key>
+	<string>slashOfActivity</string>
+	<key>gridviewPlatformInteraction</key>
+	<string>canvasOrEnvironment</string>
+	<key>logMediatorStatus</key>
+	<string>imageWithoutBuffer</string>
+	<key>serviceMethodPressure</key>
+	<string>denseAnchorFeedback</string>
+	<key>spotByTask</key>
+	<string>shaderStyleSpacing</string>
+	<key>storeCycleShape</key>
+	<string>secondGrainVelocity</string>
+</dict>
+</plist>

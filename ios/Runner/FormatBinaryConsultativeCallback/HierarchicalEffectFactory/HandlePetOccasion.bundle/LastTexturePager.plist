@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGiftRotation</key>
+	<string>frameInsideOperation</string>
+	<key>batchForEnvironment</key>
+	<string>cupertinoIncludeSingleton</string>
+	<key>cursorBeyondVar</key>
+	<string>progressbarBufferLeft</string>
+	<key>cycleMementoBehavior</key>
+	<string>controllerStyleResponse</string>
+	<key>lostCheckboxVelocity</key>
+	<string>precisionMementoBottom</string>
+	<key>radioAndMemento</key>
+	<string>unsortedMapPadding</string>
+	<key>sustainableInkwellLocation</key>
+	<string>tableStateOpacity</string>
+</dict>
+</plist>

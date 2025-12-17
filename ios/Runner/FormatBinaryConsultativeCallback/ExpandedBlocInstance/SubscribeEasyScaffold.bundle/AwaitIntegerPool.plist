@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPhaseOffset</key>
+	<string>missionOfPlatform</string>
+	<key>eagerPositionMode</key>
+	<string>controllerStructureStatus</string>
+	<key>ephemeralPositionTransparency</key>
+	<string>intuitiveTangentState</string>
+	<key>equalizationAndBridge</key>
+	<string>singletonVariableStyle</string>
+	<key>gradientMediatorFrequency</key>
+	<string>protocolStrategyTint</string>
+	<key>metadataAdapterFormat</key>
+	<string>frameActivityColor</string>
+	<key>nodeFrameworkType</key>
+	<string>sensorIncludeFacade</string>
+	<key>relationalManagerDistance</key>
+	<string>themeStrategyForce</string>
+	<key>resourceFacadeDuration</key>
+	<string>statelessBesideCommand</string>
+	<key>routerSystemSkewx</key>
+	<string>blocCycleStyle</string>
+</dict>
+</plist>

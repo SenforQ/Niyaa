@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureValuePosition</key>
+	<string>commandNearType</string>
+	<key>asyncSymbolMode</key>
+	<string>gridNumberPadding</string>
+	<key>brushModeColor</key>
+	<string>mapAndPhase</string>
+	<key>dependencyAsValue</key>
+	<string>invisibleCallbackDuration</string>
+	<key>mainVectorInset</key>
+	<string>interactorMediatorSkewx</string>
+	<key>nativeExceptionVisibility</key>
+	<string>inheritedScreenShape</string>
+	<key>permissiveTopicInteraction</key>
+	<string>independentFrameOffset</string>
+	<key>queueAtVisitor</key>
+	<string>permanentRichtextOffset</string>
+	<key>singletonAgainstBridge</key>
+	<string>specifyDimensionCenter</string>
+</dict>
+</plist>

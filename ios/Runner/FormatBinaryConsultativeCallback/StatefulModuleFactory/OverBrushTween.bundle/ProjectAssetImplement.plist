@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constOffsetFlags</key>
+	<string>expandedDespiteMediator</string>
+	<key>constraintBeyondDecorator</key>
+	<string>aspectratioFunctionLeft</string>
+	<key>displayableCardRotation</key>
+	<string>fixedVectorVelocity</string>
+	<key>graphScopeInteraction</key>
+	<string>aspectratioKindTint</string>
+	<key>logForMode</key>
+	<string>activeStackState</string>
+	<key>routerAdapterPosition</key>
+	<string>getxExceptParameter</string>
+	<key>secondQueueSpacing</key>
+	<string>configurationParamDirection</string>
+	<key>semanticHandlerBorder</key>
+	<string>smallControllerPadding</string>
+</dict>
+</plist>

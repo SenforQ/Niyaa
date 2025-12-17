@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystFlyweightBrightness</key>
+	<string>handlerVersusFlyweight</string>
+	<key>dedicatedGridviewBorder</key>
+	<string>vectorWithoutEnvironment</string>
+	<key>globalTextfieldOffset</key>
+	<string>customizedObserverSaturation</string>
+	<key>pageviewMementoResponse</key>
+	<string>scaleJobFormat</string>
+	<key>reducerByForm</key>
+	<string>presenterContextBorder</string>
+	<key>scrollableCompositionCount</key>
+	<string>specifierLikeChain</string>
+	<key>titleAndBuffer</key>
+	<string>largeObserverKind</string>
+</dict>
+</plist>

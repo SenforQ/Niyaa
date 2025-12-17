@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashTypeCount</key>
+	<string>heroAwayFramework</string>
+	<key>referenceScopeKind</key>
+	<string>concurrentRectKind</string>
+	<key>skinContextSkewy</key>
+	<string>easyResolverSpeed</string>
+	<key>smallDocumentFrequency</key>
+	<string>titleContainStage</string>
+</dict>
+</plist>

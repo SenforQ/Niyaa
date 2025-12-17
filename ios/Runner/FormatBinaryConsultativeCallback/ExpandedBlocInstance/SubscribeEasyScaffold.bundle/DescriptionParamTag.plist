@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackProxyMode</key>
+	<string>behaviorInsideComposite</string>
+	<key>cartesianProgressbarFormat</key>
+	<string>uniqueConsumerSkewx</string>
+	<key>interactorMethodDirection</key>
+	<string>awaitCommandHead</string>
+	<key>interpolationAtComposite</key>
+	<string>tickerPerEnvironment</string>
+	<key>normalDependencyStyle</key>
+	<string>layoutFromParam</string>
+	<key>parallelBlocTop</key>
+	<string>concreteEquipmentSkewx</string>
+	<key>playbackCycleVelocity</key>
+	<string>currentLayerHue</string>
+	<key>sequentialFutureFormat</key>
+	<string>observerInterpreterAppearance</string>
+</dict>
+</plist>

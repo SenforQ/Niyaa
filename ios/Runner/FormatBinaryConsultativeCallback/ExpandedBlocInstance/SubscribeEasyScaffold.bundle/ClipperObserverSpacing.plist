@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableQueryBehavior</key>
+	<string>sampleNumberForce</string>
+	<key>criticalRowSpacing</key>
+	<string>actionForFlyweight</string>
+	<key>effectStructureHead</key>
+	<string>adaptiveConstraintTransparency</string>
+	<key>hierarchicalScaffoldResponse</key>
+	<string>reducerPerParameter</string>
+	<key>intensityOutsideComposite</key>
+	<string>seamlessMovementState</string>
+	<key>scenePatternSpeed</key>
+	<string>flexDecoratorDistance</string>
+	<key>transitionDecoratorPadding</key>
+	<string>semanticMissionTheme</string>
+	<key>unactivatedTextureMomentum</key>
+	<string>movementOrTier</string>
+	<key>unsortedFeatureFlags</key>
+	<string>deferredEffectLocation</string>
+</dict>
+</plist>

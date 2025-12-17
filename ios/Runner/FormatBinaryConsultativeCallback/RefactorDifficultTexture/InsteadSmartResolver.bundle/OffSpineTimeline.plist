@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPrototypeBehavior</key>
+	<string>usecaseBeyondObserver</string>
+	<key>disabledGramRight</key>
+	<string>accessibleTimerRate</string>
+	<key>discardedSubscriptionAlignment</key>
+	<string>semanticResponseFeedback</string>
+	<key>elasticChallengeBottom</key>
+	<string>progressbarSingletonFlags</string>
+	<key>featureLevelStyle</key>
+	<string>sizeAtShape</string>
+	<key>localizationFacadeValidation</key>
+	<string>publicDurationTransparency</string>
+	<key>methodByBuffer</key>
+	<string>prismaticListenerTheme</string>
+	<key>sineModeAppearance</key>
+	<string>rowProcessState</string>
+	<key>statefulLossSaturation</key>
+	<string>tappablePlaybackSpacing</string>
+</dict>
+</plist>

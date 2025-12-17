@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSignStyle</key>
+	<string>indicatorSingletonInset</string>
+	<key>concurrentAwaitFlags</key>
+	<string>interfaceCycleSpacing</string>
+	<key>delicateCoordinatorAppearance</key>
+	<string>expandedBridgeHue</string>
+	<key>ephemeralTransformerPosition</key>
+	<string>graphVisitorTint</string>
+	<key>groupValueMode</key>
+	<string>eventActionBound</string>
+	<key>liteDimensionName</key>
+	<string>advancedRepositoryOffset</string>
+	<key>routeOutsideContext</key>
+	<string>matrixByKind</string>
+	<key>tappablePositionBehavior</key>
+	<string>roleValueName</string>
+	<key>titleInMode</key>
+	<string>roleVariableState</string>
+</dict>
+</plist>

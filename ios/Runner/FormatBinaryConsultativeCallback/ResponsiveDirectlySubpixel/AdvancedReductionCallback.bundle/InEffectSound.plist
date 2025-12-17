@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationSingletonFeedback</key>
+	<string>autoTextSkewx</string>
+	<key>dedicatedUtilDensity</key>
+	<string>pointViaState</string>
+	<key>exceptionByAction</key>
+	<string>actionThroughAction</string>
+	<key>greatMediaInterval</key>
+	<string>largeDelegateDelay</string>
+	<key>listenerDespiteStrategy</key>
+	<string>firstInstructionValidation</string>
+	<key>nativeEventName</key>
+	<string>symbolMediatorOffset</string>
+	<key>swiftDecoratorKind</key>
+	<string>independentEffectType</string>
+</dict>
+</plist>

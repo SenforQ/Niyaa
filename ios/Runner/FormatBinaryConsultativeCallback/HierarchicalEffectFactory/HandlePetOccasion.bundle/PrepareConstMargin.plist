@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDuringAdapter</key>
+	<string>beginnerLoopVelocity</string>
+	<key>commandTempleMode</key>
+	<string>chapterContainCommand</string>
+	<key>compositionalPositionFeedback</key>
+	<string>actionParamTransparency</string>
+	<key>cupertinoLevelValidation</key>
+	<string>sliderStateFrequency</string>
+	<key>flexibleSpotSize</key>
+	<string>menuSystemContrast</string>
+	<key>heapViaStage</key>
+	<string>collectionWithoutWork</string>
+	<key>resilientMasterRight</key>
+	<string>intensityLayerIndex</string>
+	<key>tangentOperationFormat</key>
+	<string>tabviewUntilFramework</string>
+</dict>
+</plist>

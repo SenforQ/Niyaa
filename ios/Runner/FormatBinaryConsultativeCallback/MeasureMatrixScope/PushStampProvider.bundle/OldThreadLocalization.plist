@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileResponseOrigin</key>
+	<string>projectCycleDelay</string>
+	<key>cubitTierFrequency</key>
+	<string>semanticDecorationDuration</string>
+	<key>customServiceSkewy</key>
+	<string>apertureDecoratorDuration</string>
+	<key>frameBeyondVisitor</key>
+	<string>basicServiceKind</string>
+	<key>gridExceptFlyweight</key>
+	<string>dimensionModeDelay</string>
+	<key>mutableImageInterval</key>
+	<string>dropdownbuttonShapeOffset</string>
+	<key>observerNumberSize</key>
+	<string>mobileUsecaseMomentum</string>
+	<key>substantialRowBehavior</key>
+	<string>iconContainContext</string>
+</dict>
+</plist>

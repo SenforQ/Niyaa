@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTitleDuration</key>
+	<string>widgetThroughLevel</string>
+	<key>animatedUtilHue</key>
+	<string>appbarLayerCenter</string>
+	<key>blocMethodEdge</key>
+	<string>relationalResolverDirection</string>
+	<key>interactiveBulletFrequency</key>
+	<string>taskProxyMargin</string>
+	<key>prismaticProfileTint</key>
+	<string>euclideanDescriptionEdge</string>
+	<key>robustReductionBrightness</key>
+	<string>discardedIntegerValidation</string>
+	<key>swiftVarName</key>
+	<string>grayscaleTierFlags</string>
+</dict>
+</plist>

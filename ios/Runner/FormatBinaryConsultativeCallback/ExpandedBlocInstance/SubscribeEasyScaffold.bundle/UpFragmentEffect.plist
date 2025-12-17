@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncVariantBound</key>
+	<string>tensorTransformerState</string>
+	<key>awaitObserverDirection</key>
+	<string>resultBeyondFlyweight</string>
+	<key>containerOfVariable</key>
+	<string>smallAxisPadding</string>
+	<key>cubitBesideLevel</key>
+	<string>fusedMobxDistance</string>
+	<key>effectFromSystem</key>
+	<string>functionalBatchDepth</string>
+	<key>futureCompositeDensity</key>
+	<string>sampleWithoutEnvironment</string>
+	<key>granularSignScale</key>
+	<string>segueAroundTask</string>
+	<key>plateContainStrategy</key>
+	<string>lastPointScale</string>
+	<key>positionVersusState</key>
+	<string>enabledDecorationForce</string>
+	<key>switchStateRotation</key>
+	<string>configurationJobBrightness</string>
+</dict>
+</plist>

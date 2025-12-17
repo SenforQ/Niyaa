@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerMementoFormat</key>
+	<string>tweenCompositeDistance</string>
+	<key>exceptionJobBehavior</key>
+	<string>errorViaLevel</string>
+	<key>indicatorPhaseInset</key>
+	<string>factoryOperationBorder</string>
+	<key>labelMementoDuration</key>
+	<string>tweenPhaseScale</string>
+	<key>masterAgainstWork</key>
+	<string>singleOperationPadding</string>
+	<key>sortedPaddingAlignment</key>
+	<string>accessorySingletonTheme</string>
+</dict>
+</plist>

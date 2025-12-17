@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorFacadeRight</key>
+	<string>modalBridgeVelocity</string>
+	<key>euclideanCoordinatorFeedback</key>
+	<string>interpolationEnvironmentSkewx</string>
+	<key>flexOfBuffer</key>
+	<string>gridviewWorkSize</string>
+	<key>lastRouteLocation</key>
+	<string>singleEqualizationPressure</string>
+	<key>numericalPrecisionInterval</key>
+	<string>intuitiveCoordinatorPressure</string>
+	<key>overlayScopeCoord</key>
+	<string>invisibleOffsetIndex</string>
+	<key>tabviewOutsideVar</key>
+	<string>errorOfMode</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAboutState</key>
+	<string>intensityTaskOrientation</string>
+	<key>gridProcessTail</key>
+	<string>routePatternFrequency</string>
+	<key>iterativeEqualizationSkewy</key>
+	<string>lazySegmentTail</string>
+	<key>materialAlignmentInterval</key>
+	<string>elasticMarginBorder</string>
+	<key>materialRowRight</key>
+	<string>dedicatedConvolutionKind</string>
+	<key>permanentInteractorSkewx</key>
+	<string>textOfParam</string>
+	<key>stateLevelBehavior</key>
+	<string>currentGesturedetectorInset</string>
+	<key>taskOperationSpeed</key>
+	<string>framePrototypeKind</string>
+</dict>
+</plist>

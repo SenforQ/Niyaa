@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowBesideTier</key>
+	<string>frameAwayComposite</string>
+	<key>checkboxShapeBorder</key>
+	<string>logOutsideBuffer</string>
+	<key>containerBeyondParameter</key>
+	<string>intermediateAnimationEdge</string>
+	<key>globalBehaviorPosition</key>
+	<string>actionAwayMode</string>
+	<key>nextOverlayState</key>
+	<string>observerPhaseCoord</string>
+	<key>originalActionKind</key>
+	<string>optimizerUntilNumber</string>
+	<key>sessionParameterFormat</key>
+	<string>presenterAtCycle</string>
+</dict>
+</plist>

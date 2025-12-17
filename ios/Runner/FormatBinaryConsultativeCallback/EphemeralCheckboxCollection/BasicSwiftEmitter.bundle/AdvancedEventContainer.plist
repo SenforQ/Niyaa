@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBesideProcess</key>
+	<string>cellFrameworkStatus</string>
+	<key>groupFromMethod</key>
+	<string>streamLikePrototype</string>
+	<key>handlerPerFramework</key>
+	<string>singleTextureForce</string>
+	<key>referenceContextState</key>
+	<string>controllerContainBuffer</string>
+	<key>secondThreadLocation</key>
+	<string>collectionAlongTask</string>
+	<key>tangentInsideVisitor</key>
+	<string>axisAndStage</string>
+</dict>
+</plist>

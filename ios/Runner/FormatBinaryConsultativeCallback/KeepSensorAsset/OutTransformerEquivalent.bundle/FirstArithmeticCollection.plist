@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAlongStrategy</key>
+	<string>builderSinceType</string>
+	<key>composableMobileValidation</key>
+	<string>plateIncludeDecorator</string>
+	<key>eventAgainstStage</key>
+	<string>sequentialNormType</string>
+	<key>explicitAsyncForce</key>
+	<string>optionBeyondInterpreter</string>
+	<key>logDecoratorFeedback</key>
+	<string>chartVisitorTheme</string>
+	<key>modalOperationAcceleration</key>
+	<string>particleOrForm</string>
+	<key>serviceFlyweightTransparency</key>
+	<string>chartThroughStage</string>
+	<key>sophisticatedFutureDensity</key>
+	<string>mediaActionMomentum</string>
+</dict>
+</plist>

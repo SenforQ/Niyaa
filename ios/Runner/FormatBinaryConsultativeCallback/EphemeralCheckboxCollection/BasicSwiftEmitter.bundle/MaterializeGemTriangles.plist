@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorTaskInterval</key>
+	<string>permissiveBuilderCoord</string>
+	<key>characterAlongSystem</key>
+	<string>layerActivityOrigin</string>
+	<key>inactiveActionCenter</key>
+	<string>decorationAroundJob</string>
+	<key>referenceFromOperation</key>
+	<string>indicatorPlatformAcceleration</string>
+	<key>resourceStructurePressure</key>
+	<string>observerStructureCount</string>
+	<key>screenTypeVisibility</key>
+	<string>sustainableGridBrightness</string>
+</dict>
+</plist>

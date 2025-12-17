@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAtPhase</key>
+	<string>precisionProcessHead</string>
+	<key>graphInsideSystem</key>
+	<string>oldTweenTail</string>
+	<key>loopViaMemento</key>
+	<string>switchOutsideFunction</string>
+	<key>mediumCoordinatorName</key>
+	<string>futureCommandMomentum</string>
+	<key>menuBesideDecorator</key>
+	<string>scrollableMusicCenter</string>
+	<key>newestViewBorder</key>
+	<string>coordinatorFlyweightVelocity</string>
+	<key>responsiveTickerDepth</key>
+	<string>staticStreamSpacing</string>
+	<key>retainedSceneFeedback</key>
+	<string>chapterOutsideFramework</string>
+	<key>toolIncludeEnvironment</key>
+	<string>popupInAdapter</string>
+</dict>
+</plist>

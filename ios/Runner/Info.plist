@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	</array>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -55,10 +59,22 @@
 	</dict>
 	<key>NSCameraUsageDescription</key>
 	<string>This app needs camera access to take photos for avatar.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>This app needs access to local network to connect to development servers</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>We need your location to provide location-based features even when the app is in background</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We need your location to provide location-based features even when the app is in background</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your location to provide location-based features</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app needs access to microphone for audio recording</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>We need access to save your profile picture.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>We need access to your photo library to select your profile picture.</string>
+	<key>NSPrivacyCollectedDataTypes</key>
+	<array/>
 	<key>NSUserTrackingUsageDescription</key>
 	<string>This app would like to track you across apps and websites to provide personalized content and ads.</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
@@ -66,6 +82,9 @@
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>audio</string>
+		<string>fetch</string>
+		<string>processing</string>
+		<string>remote-notification</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>

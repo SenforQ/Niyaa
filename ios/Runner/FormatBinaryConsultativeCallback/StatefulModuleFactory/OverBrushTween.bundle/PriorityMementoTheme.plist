@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackSystemAcceleration</key>
+	<string>alertThroughPattern</string>
+	<key>consumerNumberBehavior</key>
+	<string>gridStageDirection</string>
+	<key>coordinatorEnvironmentStyle</key>
+	<string>labelNumberState</string>
+	<key>mobxPerProcess</key>
+	<string>unaryUntilParam</string>
+	<key>queueActivitySkewy</key>
+	<string>sliderStateFlags</string>
+	<key>resultMementoTag</key>
+	<string>entityParamDensity</string>
+	<key>roleAdapterDistance</key>
+	<string>hyperbolicMobileBound</string>
+	<key>semanticMatrixName</key>
+	<string>textFunctionAlignment</string>
+</dict>
+</plist>

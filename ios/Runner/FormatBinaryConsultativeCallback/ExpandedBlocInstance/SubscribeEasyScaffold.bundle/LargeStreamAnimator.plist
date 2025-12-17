@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityStageType</key>
+	<string>matrixJobInterval</string>
+	<key>multiStreamStyle</key>
+	<string>vectorShapeCenter</string>
+	<key>newestTransformerCount</key>
+	<string>resilientBulletPosition</string>
+	<key>nodeAroundProcess</key>
+	<string>positionInsideBridge</string>
+	<key>statefulErrorForce</key>
+	<string>symmetricSinkEdge</string>
+	<key>taskAlongVariable</key>
+	<string>builderAdapterHue</string>
+</dict>
+</plist>

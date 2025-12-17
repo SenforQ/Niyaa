@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorPrototypeHue</key>
+	<string>chartOperationTransparency</string>
+	<key>hardManagerVisibility</key>
+	<string>activatedPageviewSaturation</string>
+	<key>intermediateCursorStyle</key>
+	<string>offsetFromFramework</string>
+	<key>mediumGrayscalePosition</key>
+	<string>reductionScopeBrightness</string>
+	<key>opaqueMethodAcceleration</key>
+	<string>intensityPlatformInteraction</string>
+	<key>prismaticConstraintTag</key>
+	<string>storagePrototypeDensity</string>
+	<key>repositoryLevelDirection</key>
+	<string>storeIncludeOperation</string>
+	<key>storyboardFrameworkAcceleration</key>
+	<string>tweenStyleValidation</string>
+	<key>textureActivityEdge</key>
+	<string>gridAmongFunction</string>
+</dict>
+</plist>

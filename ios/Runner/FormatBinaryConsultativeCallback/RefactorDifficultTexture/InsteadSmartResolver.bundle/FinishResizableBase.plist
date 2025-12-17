@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAwayAdapter</key>
+	<string>alignmentWithOperation</string>
+	<key>asyncOptimizerFlags</key>
+	<string>ignoredControllerDuration</string>
+	<key>descriptorContainValue</key>
+	<string>signAgainstAction</string>
+	<key>disabledManagerCoord</key>
+	<string>alphaAwayVar</string>
+	<key>interpolationVariableBrightness</key>
+	<string>cartesianCompleterOrientation</string>
+	<key>managerTaskFlags</key>
+	<string>controllerOrMediator</string>
+	<key>opaqueLabelMomentum</key>
+	<string>tweenLayerState</string>
+	<key>particleInLayer</key>
+	<string>popupAdapterMargin</string>
+	<key>smallCheckboxBorder</key>
+	<string>buttonPatternOpacity</string>
+</dict>
+</plist>

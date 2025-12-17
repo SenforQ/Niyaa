@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menuCommandType</key>
+	<string>customRectAppearance</string>
+	<key>serviceSingletonTint</key>
+	<string>hashStrategyHead</string>
+	<key>signatureAlongEnvironment</key>
+	<string>specifierJobName</string>
+	<key>tappableButtonColor</key>
+	<string>associatedRadiusRate</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAdapterDistance</key>
+	<string>displayableFactorySkewx</string>
+	<key>appbarAtBuffer</key>
+	<string>previewStateResponse</string>
+	<key>captionOutsideScope</key>
+	<string>configurationParameterDensity</string>
+	<key>completerAndFacade</key>
+	<string>declarativeCoordinatorTail</string>
+	<key>effectPatternState</key>
+	<string>lostStorageVisible</string>
+	<key>inkwellFromDecorator</key>
+	<string>cupertinoModeTension</string>
+	<key>modelAdapterFlags</key>
+	<string>singletonContextOffset</string>
+	<key>threadVisitorLocation</key>
+	<string>methodAsMediator</string>
+	<key>viewVarPadding</key>
+	<string>reusableTernaryCenter</string>
+</dict>
+</plist>

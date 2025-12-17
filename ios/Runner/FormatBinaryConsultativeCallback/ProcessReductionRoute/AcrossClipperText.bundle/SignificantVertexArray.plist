@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPatternTransparency</key>
+	<string>injectionProcessBrightness</string>
+	<key>allocatorAlongLevel</key>
+	<string>completerDespiteFlyweight</string>
+	<key>animatedReferenceInteraction</key>
+	<string>mobileAsAction</string>
+	<key>consumerWithFlyweight</key>
+	<string>widgetThanDecorator</string>
+	<key>remainderFrameworkRate</key>
+	<string>modelAmongAction</string>
+	<key>secondPriorityInterval</key>
+	<string>crudeFutureVelocity</string>
+	<key>swiftOrPattern</key>
+	<string>scaffoldDespiteFacade</string>
+	<key>transitionObserverBehavior</key>
+	<string>usageSingletonOrigin</string>
+</dict>
+</plist>

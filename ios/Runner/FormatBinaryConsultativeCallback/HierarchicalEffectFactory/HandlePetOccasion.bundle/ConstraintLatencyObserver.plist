@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSpritePadding</key>
+	<string>brushDuringBridge</string>
+	<key>certificateObserverMargin</key>
+	<string>animationScopeInset</string>
+	<key>consumerSingletonOpacity</key>
+	<string>sceneIncludeStyle</string>
+	<key>riverpodByChain</key>
+	<string>allocatorOfForm</string>
+	<key>storyboardObserverLeft</key>
+	<string>buttonViaCommand</string>
+</dict>
+</plist>

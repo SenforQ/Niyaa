@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoForStructure</key>
+	<string>referenceCycleShape</string>
+	<key>signatureContextTint</key>
+	<string>positionBufferEdge</string>
+	<key>sortedHandlerVisible</key>
+	<string>webProfileSkewy</string>
+	<key>subpixelInsideSingleton</key>
+	<string>uniqueConsumerOpacity</string>
+</dict>
+</plist>

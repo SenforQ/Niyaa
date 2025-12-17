@@ -9,6 +9,8 @@ import 'video_full_page.dart';
 import 'add_community_page.dart';
 import 'rank_page.dart';
 import 'widgets/comment_bottom_sheet.dart';
+import 'services/coin_service.dart';
+import 'wallet_purchase_page.dart';
 
 class CommunityPage extends StatefulWidget {
   const CommunityPage({super.key});
@@ -57,6 +59,68 @@ class _CommunityPageState extends State<CommunityPage> {
         .map((e) => NiyaaInfo.fromJson(e as Map<String, dynamic>))
         .where((info) => !blockSet.contains(info.nickName) && !muteSet.contains(info.nickName))
         .toList();
+  }
+
+  void _showInsufficientCoinsDialog(BuildContext context) {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: Colors.white,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+        title: const Text(
+          'Insufficient Coins',
+          style: TextStyle(
+            fontSize: 20,
+            fontWeight: FontWeight.bold,
+            color: Colors.black87,
+          ),
+        ),
+        content: const Text(
+          'You need 5 Coins to add a post. Please purchase coins first.',
+          style: TextStyle(
+            fontSize: 16,
+            color: Colors.black87,
+          ),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(),
+            child: const Text(
+              'Cancel',
+              style: TextStyle(
+                color: Colors.black54,
+                fontSize: 16,
+              ),
+            ),
+          ),
+          ElevatedButton(
+            onPressed: () {
+              Navigator.of(context).pop();
+              Navigator.of(context).push(
+                MaterialPageRoute(
+                  builder: (_) => const WalletPurchasePage(),
+                ),
+              );
+            },
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color(0xFFFFDC05),
+              foregroundColor: Colors.black87,
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(20),
+              ),
+              padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+            ),
+            child: const Text(
+              'Purchase',
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+                fontSize: 16,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
   }
 
   @override
@@ -314,7 +378,24 @@ class _CommunityPageState extends State<CommunityPage> {
                   right: 16,
                   child: GestureDetector(
                     behavior: HitTestBehavior.opaque,
-                    onTap: () {
+                    onTap: () async {
+                      // Check coins before adding
+                      final currentCoins = await CoinService.getCurrentCoins();
+                      if (currentCoins < 5) {
+                        if (!mounted) return;
+                        _showInsufficientCoinsDialog(context);
+                        return;
+                      }
+
+                      // Deduct coins
+                      final success = await CoinService.deductCoins(5);
+                      if (!success) {
+                        if (!mounted) return;
+                        _showInsufficientCoinsDialog(context);
+                        return;
+                      }
+
+                      if (!mounted) return;
                       Navigator.of(context).push(
                         MaterialPageRoute(
                           builder: (_) => const AddCommunityPage(),

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleIncludeKind</key>
+	<string>offsetUntilState</string>
+	<key>listviewTaskAppearance</key>
+	<string>gestureViaType</string>
+	<key>reducerStructureAcceleration</key>
+	<string>catalystAsParameter</string>
+	<key>semanticsMediatorInset</key>
+	<string>responseStrategyInterval</string>
+	<key>substantialMetadataTension</key>
+	<string>sceneSingletonPressure</string>
+</dict>
+</plist>

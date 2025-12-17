@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerOperationTheme</key>
+	<string>completionPhaseCenter</string>
+	<key>challengeEnvironmentSpacing</key>
+	<string>signatureLevelHue</string>
+	<key>compositionalGraphicSpacing</key>
+	<string>sizeActivityFeedback</string>
+	<key>curveForCommand</key>
+	<string>allocatorCommandBound</string>
+	<key>subscriptionCycleTransparency</key>
+	<string>catalystFormAppearance</string>
+</dict>
+</plist>

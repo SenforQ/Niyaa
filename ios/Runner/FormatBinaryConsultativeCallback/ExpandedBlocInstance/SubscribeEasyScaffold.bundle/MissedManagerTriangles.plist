@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAsValue</key>
+	<string>reducerAmongState</string>
+	<key>featureAgainstAction</key>
+	<string>significantStatefulPadding</string>
+	<key>inactiveMetadataSaturation</key>
+	<string>asynchronousRouteVelocity</string>
+	<key>persistentAlignmentDensity</key>
+	<string>permissiveConsumerSpacing</string>
+</dict>
+</plist>

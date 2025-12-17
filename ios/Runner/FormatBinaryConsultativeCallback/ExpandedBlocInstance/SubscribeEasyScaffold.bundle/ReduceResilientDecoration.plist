@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoUnaryLeft</key>
+	<string>cubitPlatformLeft</string>
+	<key>eventAndContext</key>
+	<string>serviceAsMemento</string>
+	<key>scrollableViewName</key>
+	<string>declarativeDropdownbuttonSize</string>
+	<key>uniqueFactoryLocation</key>
+	<string>checkboxProcessTop</string>
+</dict>
+</plist>

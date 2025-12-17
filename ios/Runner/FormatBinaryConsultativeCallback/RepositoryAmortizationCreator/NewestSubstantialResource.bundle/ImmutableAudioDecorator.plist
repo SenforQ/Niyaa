@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customVectorBottom</key>
+	<string>rowAboutVisitor</string>
+	<key>ephemeralDependencyValidation</key>
+	<string>sinkWithContext</string>
+	<key>interpolationBridgeTop</key>
+	<string>modalTypeSize</string>
+	<key>observerAndForm</key>
+	<string>resourceCommandIndex</string>
+	<key>observerTypeDepth</key>
+	<string>transitionCompositeInset</string>
+	<key>rowVersusComposite</key>
+	<string>mediaqueryStrategyTint</string>
+	<key>transformerContextFeedback</key>
+	<string>effectInBridge</string>
+</dict>
+</plist>

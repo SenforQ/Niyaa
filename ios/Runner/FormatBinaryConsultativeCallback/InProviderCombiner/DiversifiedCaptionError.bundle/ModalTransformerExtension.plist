@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocLayerResponse</key>
+	<string>textProxySpeed</string>
+	<key>consultativeSignValidation</key>
+	<string>petVisitorLocation</string>
+	<key>consumerContextHue</key>
+	<string>positionMementoDirection</string>
+	<key>mainAsyncDirection</key>
+	<string>requestShapeInteraction</string>
+	<key>optimizerObserverBottom</key>
+	<string>cupertinoAroundPlatform</string>
+	<key>sustainableQueryTint</key>
+	<string>containerLayerTransparency</string>
+</dict>
+</plist>

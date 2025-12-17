@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchStyleHead</key>
+	<string>pointUntilCommand</string>
+	<key>cellSingletonFormat</key>
+	<string>catalystLikeParam</string>
+	<key>nativeChapterStyle</key>
+	<string>assetNumberBorder</string>
+	<key>publicPlateAlignment</key>
+	<string>dialogsProcessColor</string>
+	<key>semanticStoreForce</key>
+	<string>labelInsideValue</string>
+	<key>textureAlongKind</key>
+	<string>serviceCommandShade</string>
+	<key>transitionAwayTask</key>
+	<string>apertureByTemple</string>
+</dict>
+</plist>

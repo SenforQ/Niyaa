@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateExceptStructure</key>
+	<string>overlayIncludeNumber</string>
+	<key>convolutionTypeOffset</key>
+	<string>spineAndCommand</string>
+	<key>frameScopeType</key>
+	<string>rapidTextureBorder</string>
+	<key>modelCommandRight</key>
+	<string>equipmentAtStrategy</string>
+	<key>unactivatedRadiusEdge</key>
+	<string>gridChainFrequency</string>
+</dict>
+</plist>

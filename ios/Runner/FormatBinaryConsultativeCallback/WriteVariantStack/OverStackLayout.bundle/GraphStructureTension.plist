@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorContextVisibility</key>
+	<string>keyCollectionIndex</string>
+	<key>bulletSingletonDirection</key>
+	<string>tabviewStageState</string>
+	<key>coordinatorAtComposite</key>
+	<string>tabviewFrameworkOrigin</string>
+	<key>expandedFromContext</key>
+	<string>asynchronousRadiusType</string>
+	<key>mainHashRotation</key>
+	<string>requestExceptStyle</string>
+	<key>popupWithObserver</key>
+	<string>dependencyChainCount</string>
+	<key>priorCapsuleTransparency</key>
+	<string>textfieldAgainstMediator</string>
+	<key>sortedScaffoldShape</key>
+	<string>channelParameterBorder</string>
+	<key>storyboardCommandIndex</key>
+	<string>hardErrorInterval</string>
+	<key>variantTaskTransparency</key>
+	<string>entityProxyInteraction</string>
+</dict>
+</plist>

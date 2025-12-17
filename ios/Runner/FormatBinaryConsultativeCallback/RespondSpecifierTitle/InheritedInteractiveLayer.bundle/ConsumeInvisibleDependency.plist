@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCoordinatorTop</key>
+	<string>sliderStyleSkewx</string>
+	<key>advancedBinarySpeed</key>
+	<string>arithmeticBeyondComposite</string>
+	<key>interactiveWidgetTop</key>
+	<string>exceptionKindOffset</string>
+	<key>otherExceptionRate</key>
+	<string>requiredResultInterval</string>
+	<key>reactiveDelegateDistance</key>
+	<string>bufferFrameworkTint</string>
+	<key>skinAwayScope</key>
+	<string>inheritedRichtextInterval</string>
+</dict>
+</plist>

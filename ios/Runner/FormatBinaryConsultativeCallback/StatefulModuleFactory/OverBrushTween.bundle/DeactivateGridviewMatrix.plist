@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedResourceFrequency</key>
+	<string>reusableBufferContrast</string>
+	<key>globalRowHue</key>
+	<string>intensityMementoOpacity</string>
+	<key>intermediateNavigationMode</key>
+	<string>serviceExceptScope</string>
+	<key>standaloneIntegerKind</key>
+	<string>otherCubitBrightness</string>
+</dict>
+</plist>

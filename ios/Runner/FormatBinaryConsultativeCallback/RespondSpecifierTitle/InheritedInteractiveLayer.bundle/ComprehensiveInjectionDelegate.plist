@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstMatrixDelay</key>
+	<string>resilientCertificateRotation</string>
+	<key>interactivePageviewAlignment</key>
+	<string>presenterInComposite</string>
+	<key>logarithmCommandTint</key>
+	<string>pinchableResourceBorder</string>
+	<key>loopTaskVelocity</key>
+	<string>spineKindVisible</string>
+	<key>presenterModeEdge</key>
+	<string>containerBufferContrast</string>
+	<key>resolverTempleValidation</key>
+	<string>keyReducerLeft</string>
+	<key>tensorBoxshadowShape</key>
+	<string>interactorOutsideTier</string>
+</dict>
+</plist>

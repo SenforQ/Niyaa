@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGramDensity</key>
+	<string>decorationTaskAlignment</string>
+	<key>finalBehaviorLeft</key>
+	<string>particleThroughFlyweight</string>
+	<key>finalMaterialAlignment</key>
+	<string>textWithoutAdapter</string>
+	<key>missedDependencyMode</key>
+	<string>errorStrategyOffset</string>
+	<key>movementModeShape</key>
+	<string>radioBridgePosition</string>
+</dict>
+</plist>

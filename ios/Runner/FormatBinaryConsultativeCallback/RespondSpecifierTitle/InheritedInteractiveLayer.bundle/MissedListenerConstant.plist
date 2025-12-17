@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorLikeMemento</key>
+	<string>permissivePopupTint</string>
+	<key>expandedParamTop</key>
+	<string>streamPlatformOrientation</string>
+	<key>gestureFlyweightFlags</key>
+	<string>hyperbolicLayoutPadding</string>
+	<key>imageBeyondState</key>
+	<string>providerKindTransparency</string>
+	<key>signatureNumberCoord</key>
+	<string>sizeSingletonSpacing</string>
+</dict>
+</plist>

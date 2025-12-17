@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticExceptProxy</key>
+	<string>intuitiveBitrateBorder</string>
+	<key>intuitiveResponseTint</key>
+	<string>blocOutsideStructure</string>
+	<key>localizationKindColor</key>
+	<string>storyboardOrNumber</string>
+	<key>offsetPrototypeKind</key>
+	<string>modelWithoutShape</string>
+</dict>
+</plist>

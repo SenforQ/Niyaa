@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicCheckboxAlignment</key>
+	<string>delegateAmongComposite</string>
+	<key>iconOperationAcceleration</key>
+	<string>scaleContainFacade</string>
+	<key>interpolationStateDirection</key>
+	<string>staticTabbarBrightness</string>
+	<key>missedGesturedetectorDensity</key>
+	<string>alignmentFromLayer</string>
+</dict>
+</plist>

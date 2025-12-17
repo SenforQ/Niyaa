@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFragmentInteraction</key>
+	<string>kernelLikeStrategy</string>
+	<key>adaptiveLabelMode</key>
+	<string>euclideanTabbarEdge</string>
+	<key>animationAmongLayer</key>
+	<string>marginIncludeWork</string>
+	<key>liteSampleCenter</key>
+	<string>ignoredLoopTheme</string>
+	<key>momentumActivityVelocity</key>
+	<string>mainTextureFeedback</string>
+	<key>prevCupertinoDelay</key>
+	<string>grayscaleThanFramework</string>
+	<key>queuePatternTension</key>
+	<string>transitionStyleName</string>
+	<key>singletonJobSkewy</key>
+	<string>customConstraintShape</string>
+	<key>textureIncludeChain</key>
+	<string>labelFacadeHue</string>
+</dict>
+</plist>

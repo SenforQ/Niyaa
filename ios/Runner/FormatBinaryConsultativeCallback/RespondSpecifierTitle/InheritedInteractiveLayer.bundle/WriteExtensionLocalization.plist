@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationContextAcceleration</key>
+	<string>notificationPerCycle</string>
+	<key>gemVariableAppearance</key>
+	<string>relationalBufferScale</string>
+	<key>mobileQueueAcceleration</key>
+	<string>offsetByAction</string>
+	<key>sliderAtActivity</key>
+	<string>fixedHashBottom</string>
+	<key>smartHeroRight</key>
+	<string>descriptionExceptMemento</string>
+	<key>unaryTypeTail</key>
+	<string>pinchableAllocatorFeedback</string>
+	<key>widgetFromAdapter</key>
+	<string>liteSingletonCount</string>
+</dict>
+</plist>

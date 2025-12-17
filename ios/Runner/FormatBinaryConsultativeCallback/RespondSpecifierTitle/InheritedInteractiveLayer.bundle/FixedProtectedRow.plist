@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionZoneFormat</key>
+	<string>flexTierFeedback</string>
+	<key>associatedDescriptorOrigin</key>
+	<string>nibAsProcess</string>
+	<key>batchValueKind</key>
+	<string>consumerFunctionType</string>
+	<key>capsuleSystemStyle</key>
+	<string>singletonModeSpacing</string>
+	<key>compositionalImageAppearance</key>
+	<string>spriteVarDensity</string>
+	<key>eventIncludeAdapter</key>
+	<string>widgetAboutOperation</string>
+	<key>interfaceThroughBridge</key>
+	<string>animationMementoFlags</string>
+	<key>keyGetxTension</key>
+	<string>accordionFragmentPadding</string>
+	<key>oldSessionName</key>
+	<string>workflowCycleEdge</string>
+	<key>optionContainValue</key>
+	<string>spotDecoratorShade</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAsyncMomentum</key>
+	<string>missionStructureHead</string>
+	<key>elasticConfigurationShade</key>
+	<string>resilientHeroVisibility</string>
+	<key>lostHeroBrightness</key>
+	<string>ignoredEffectDuration</string>
+	<key>managerDespiteCommand</key>
+	<string>constraintOrBuffer</string>
+	<key>positionPhaseOffset</key>
+	<string>plateAroundFramework</string>
+	<key>textureBufferIndex</key>
+	<string>modalTypeOrientation</string>
+	<key>tweenFormBehavior</key>
+	<string>rowAdapterBound</string>
+</dict>
+</plist>

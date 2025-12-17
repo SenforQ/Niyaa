@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelWithoutMediator</key>
+	<string>primaryMobileValidation</string>
+	<key>chapterOfStage</key>
+	<string>layoutLevelTheme</string>
+	<key>constProviderColor</key>
+	<string>smartTweenMargin</string>
+	<key>delegateNumberName</key>
+	<string>tabviewSystemVisibility</string>
+	<key>firstInjectionVisible</key>
+	<string>popupAtObserver</string>
+	<key>playbackLayerShape</key>
+	<string>textLevelTransparency</string>
+	<key>publicLayerDelay</key>
+	<string>dimensionViaMediator</string>
+	<key>radiusDuringDecorator</key>
+	<string>resizableOffsetAcceleration</string>
+	<key>roleDuringTask</key>
+	<string>intensityScopeMargin</string>
+	<key>subscriptionWithoutForm</key>
+	<string>localPlateDuration</string>
+</dict>
+</plist>
